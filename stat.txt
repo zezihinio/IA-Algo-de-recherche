@@ -1,0 +1,2100 @@
+18-April 00:54:
+
+Départ : Pont de Sèvres
+Arrivée : Bobigny – Pablo Picasso
+Algorithme : BFS
+Chemin trouvé par BFS :
+Pont de Sèvres -> Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> École Militaire -> La Tour-Maubourg -> Invalides -> Concorde -> Madeleine -> Opéra -> Chaussée d'Antin – La Fayette -> Le Peletier -> Cadet -> Poissonnière -> Gare de l'Est -> Gare du Nord -> Stalingrad -> Jaurès -> Laumière -> Ourcq -> Porte de Pantin -> Hoche -> Église de Pantin -> Bobigny – Pantin – Raymond Queneau -> Bobigny – Pablo Picasso
+Nombre d'itérations : 359
+Temps d'exécution : 0.02 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 33 stations
+
+Départ : Pont de Sèvres
+Arrivée : Bobigny – Pablo Picasso
+Algorithme : Random Search
+Chemin trouvé par Random Search :
+Pont de Sèvres -> Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> Ségur -> Duroc -> Saint-François-Xavier -> Varenne -> Invalides -> Champs-Élysées – Clémenceau -> Miromesnil -> Saint-Lazare -> Trinité – d'Estienne d'Orves -> Notre-Dame-de-Lorette -> Saint-Georges -> Pigalle -> Anvers -> Barbès - Rochechouart -> La Chapelle -> Stalingrad -> Jaurès -> Laumière -> Ourcq -> Porte de Pantin -> Hoche -> Église de Pantin -> Bobigny – Pantin – Raymond Queneau -> Bobigny – Pablo Picasso
+Nombre d'itérations : 86459
+Temps d'exécution : 4.54 secondes
+Utilisation de la mémoire : 711960 bytes
+Longueur du chemin : 36 stations
+
+Départ : Pont de Sèvres
+Arrivée : Bobigny – Pablo Picasso
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Pont de Sèvres -> Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> École Militaire -> La Tour-Maubourg -> Invalides -> Concorde -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Bastille -> Bréguet – Sabin -> Richard-Lenoir -> Oberkampf -> République -> Jacques Bonsergent -> Gare de l'Est -> Gare du Nord -> Stalingrad -> Jaurès -> Laumière -> Ourcq -> Porte de Pantin -> Hoche -> Église de Pantin -> Bobigny – Pantin – Raymond Queneau -> Bobigny – Pablo Picasso
+Nombre d'itérations : 1097
+Temps d'exécution : 0.18 secondes
+Utilisation de la mémoire : 12728 bytes
+Longueur du chemin : 37 stations
+
+Départ : Pont de Sèvres
+Arrivée : Bobigny – Pablo Picasso
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Pont de Sèvres -> Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Passy -> Bir-Hakeim -> Dupleix -> La Motte-Picquet – Grenelle -> Cambronne -> Sèvres – Lecourbe -> Pasteur -> Montparnasse – Bienvenüe -> Saint-Placide -> Saint-Sulpice -> Saint-Germain-des-Prés -> Odéon -> Saint-Michel -> Cité -> Châtelet -> Hôtel de Ville -> Saint-Paul -> Bastille -> Bréguet – Sabin -> Richard-Lenoir -> Oberkampf -> République -> Jacques Bonsergent -> Gare de l'Est -> Gare du Nord -> Stalingrad -> Jaurès -> Laumière -> Ourcq -> Porte de Pantin -> Hoche -> Église de Pantin -> Bobigny – Pantin – Raymond Queneau -> Bobigny – Pablo Picasso
+Nombre d'itérations : 46
+Temps d'exécution : 0.02 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 46 stations
+
+Départ : Pont de Sèvres
+Arrivée : Bobigny – Pablo Picasso
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Pont de Sèvres -> Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> École Militaire -> La Tour-Maubourg -> Invalides -> Concorde -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Bastille -> Bréguet – Sabin -> Richard-Lenoir -> Oberkampf -> République -> Jacques Bonsergent -> Gare de l'Est -> Gare du Nord -> Stalingrad -> Jaurès -> Laumière -> Ourcq -> Porte de Pantin -> Hoche -> Église de Pantin -> Bobigny – Pantin – Raymond Queneau -> Bobigny – Pablo Picasso
+Nombre d'itérations : 183
+Temps d'exécution : 0.02 secondes
+Utilisation de la mémoire : 504 bytes
+Longueur du chemin : 37 stations
+================================
+18-April 00:55:
+
+Départ : Pont de Sèvres
+Arrivée : Bobigny – Pablo Picasso
+Algorithme : BFS
+Chemin trouvé par BFS :
+Pont de Sèvres -> Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> École Militaire -> La Tour-Maubourg -> Invalides -> Concorde -> Madeleine -> Opéra -> Chaussée d'Antin – La Fayette -> Le Peletier -> Cadet -> Poissonnière -> Gare de l'Est -> Gare du Nord -> Stalingrad -> Jaurès -> Laumière -> Ourcq -> Porte de Pantin -> Hoche -> Église de Pantin -> Bobigny – Pantin – Raymond Queneau -> Bobigny – Pablo Picasso
+Nombre d'itérations : 359
+Temps d'exécution : 0.02 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 33 stations
+
+Départ : Pont de Sèvres
+Arrivée : Bobigny – Pablo Picasso
+Algorithme : Random Search
+Chemin trouvé par Random Search :
+Pont de Sèvres -> Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Chardon-Lagache -> Mirabeau -> Porte d'Auteuil -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> Concorde -> Madeleine -> Opéra -> Richelieu – Drouot -> Grands Boulevards -> Bonne Nouvelle -> Strasbourg – Saint-Denis -> Château d'Eau -> Gare de l'Est -> Gare du Nord -> Stalingrad -> Jaurès -> Laumière -> Ourcq -> Porte de Pantin -> Hoche -> Église de Pantin -> Bobigny – Pantin – Raymond Queneau -> Bobigny – Pablo Picasso
+Nombre d'itérations : 30320
+Temps d'exécution : 1.27 secondes
+Utilisation de la mémoire : 219448 bytes
+Longueur du chemin : 41 stations
+
+Départ : Pont de Sèvres
+Arrivée : Bobigny – Pablo Picasso
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Pont de Sèvres -> Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> École Militaire -> La Tour-Maubourg -> Invalides -> Concorde -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Bastille -> Bréguet – Sabin -> Richard-Lenoir -> Oberkampf -> République -> Jacques Bonsergent -> Gare de l'Est -> Gare du Nord -> Stalingrad -> Jaurès -> Laumière -> Ourcq -> Porte de Pantin -> Hoche -> Église de Pantin -> Bobigny – Pantin – Raymond Queneau -> Bobigny – Pablo Picasso
+Nombre d'itérations : 1097
+Temps d'exécution : 0.20 secondes
+Utilisation de la mémoire : 12728 bytes
+Longueur du chemin : 37 stations
+
+Départ : Pont de Sèvres
+Arrivée : Bobigny – Pablo Picasso
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Pont de Sèvres -> Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Passy -> Bir-Hakeim -> Dupleix -> La Motte-Picquet – Grenelle -> Cambronne -> Sèvres – Lecourbe -> Pasteur -> Montparnasse – Bienvenüe -> Saint-Placide -> Saint-Sulpice -> Saint-Germain-des-Prés -> Odéon -> Saint-Michel -> Cité -> Châtelet -> Hôtel de Ville -> Saint-Paul -> Bastille -> Bréguet – Sabin -> Richard-Lenoir -> Oberkampf -> République -> Jacques Bonsergent -> Gare de l'Est -> Gare du Nord -> Stalingrad -> Jaurès -> Laumière -> Ourcq -> Porte de Pantin -> Hoche -> Église de Pantin -> Bobigny – Pantin – Raymond Queneau -> Bobigny – Pablo Picasso
+Nombre d'itérations : 46
+Temps d'exécution : 0.02 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 46 stations
+
+Départ : Pont de Sèvres
+Arrivée : Bobigny – Pablo Picasso
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Pont de Sèvres -> Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> École Militaire -> La Tour-Maubourg -> Invalides -> Concorde -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Bastille -> Bréguet – Sabin -> Richard-Lenoir -> Oberkampf -> République -> Jacques Bonsergent -> Gare de l'Est -> Gare du Nord -> Stalingrad -> Jaurès -> Laumière -> Ourcq -> Porte de Pantin -> Hoche -> Église de Pantin -> Bobigny – Pantin – Raymond Queneau -> Bobigny – Pablo Picasso
+Nombre d'itérations : 183
+Temps d'exécution : 0.02 secondes
+Utilisation de la mémoire : 504 bytes
+Longueur du chemin : 37 stations
+================================
+
+18-April 01:01:
+
+Départ : Châtillon – Montrouge
+Arrivée : La Défense
+Algorithme : BFS
+Chemin trouvé par BFS :
+Châtillon – Montrouge -> Asnières – Gennevilliers – Les Courtilles -> Les Agnettes -> Gabriel Péri -> Mairie de Clichy -> Porte de Clichy -> Pont Cardinet -> Saint-Lazare -> Miromesnil -> Saint-Philippe du Roule -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Argentine -> Porte Maillot -> Les Sablons -> Pont de Neuilly -> Esplanade de La Défense -> La Défense
+Nombre d'itérations : 334
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 19 stations
+
+Départ : Châtillon – Montrouge
+Arrivée : La Défense
+Algorithme : Random Search
+Chemin trouvé par Random Search :
+Châtillon – Montrouge -> Malakoff – Rue Étienne Dolet -> Malakoff – Plateau de Vanves -> Porte de Vanves -> Plaisance -> Pernety -> Gaîté -> Montparnasse – Bienvenüe -> Duroc -> Saint-François-Xavier -> Varenne -> Invalides -> Champs-Élysées – Clémenceau -> Miromesnil -> Saint-Philippe du Roule -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Argentine -> Porte Maillot -> Les Sablons -> Pont de Neuilly -> Esplanade de La Défense -> La Défense
+Nombre d'itérations : 66061
+Temps d'exécution : 3.55 secondes
+Utilisation de la mémoire : 711960 bytes
+Longueur du chemin : 24 stations
+
+Départ : Châtillon – Montrouge
+Arrivée : La Défense
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Châtillon – Montrouge -> Asnières – Gennevilliers – Les Courtilles -> Les Agnettes -> Gabriel Péri -> Mairie de Clichy -> Porte de Clichy -> Pont Cardinet -> Saint-Lazare -> Madeleine -> Concorde -> Champs-Élysées - Clemenceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Argentine -> Porte Maillot -> Les Sablons -> Pont de Neuilly -> Esplanade de La Défense -> La Défense
+Nombre d'itérations : 810
+Temps d'exécution : 0.17 secondes
+Utilisation de la mémoire : 12728 bytes
+Longueur du chemin : 20 stations
+
+Départ : Châtillon – Montrouge
+Arrivée : La Défense
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Châtillon – Montrouge -> Malakoff – Rue Étienne Dolet -> Malakoff – Plateau de Vanves -> Porte de Vanves -> Plaisance -> Pernety -> Gaîté -> Montparnasse – Bienvenüe -> Saint-Placide -> Saint-Sulpice -> Saint-Germain-des-Prés -> Odéon -> Saint-Michel -> Cité -> Châtelet -> Louvre - Rivoli -> Palais Royal - Musée du Louvre -> Tuileries -> Concorde -> Champs-Élysées - Clemenceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Argentine -> Porte Maillot -> Les Sablons -> Pont de Neuilly -> Esplanade de La Défense -> La Défense
+Nombre d'itérations : 29
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 64 bytes
+Longueur du chemin : 29 stations
+
+Départ : Châtillon – Montrouge
+Arrivée : La Défense
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Châtillon – Montrouge -> Asnières – Gennevilliers – Les Courtilles -> Les Agnettes -> Gabriel Péri -> Mairie de Clichy -> Porte de Clichy -> Pont Cardinet -> Saint-Lazare -> Madeleine -> Concorde -> Champs-Élysées - Clemenceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Argentine -> Porte Maillot -> Les Sablons -> Pont de Neuilly -> Esplanade de La Défense -> La Défense
+Nombre d'itérations : 37
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 312 bytes
+Longueur du chemin : 20 stations
+================================
+
+22-April 17:30:
+
+Départ : Saint-Denis Université
+Arrivée : Pierre et Marie Curie
+Algorithme : BFS
+Chemin trouvé par BFS :
+Saint-Denis Université -> Basilique de Saint-Denis -> Saint-Denis – Porte de Paris -> Carrefour Pleyel -> Mairie de Saint-Ouen -> Saint-Ouen -> Porte de Clichy -> Pont Cardinet -> Saint-Lazare -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Bercy -> Quai de la Gare -> Chevaleret -> Nationale -> Place d'Italie -> Tolbiac -> Maison Blanche -> Porte d'Italie -> Porte de Choisy -> Porte d'Ivry -> Pierre et Marie Curie
+Nombre d'itérations : 354
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 24 stations
+
+Départ : Saint-Denis Université
+Arrivée : Pierre et Marie Curie
+Algorithme : Random Search
+Chemin trouvé par Random Search :
+Saint-Denis Université -> Basilique de Saint-Denis -> Saint-Denis – Porte de Paris -> Carrefour Pleyel -> Mairie de Saint-Ouen -> Garibaldi -> Porte de Saint-Ouen -> Guy Môquet -> La Fourche -> Place de Clichy -> Liège -> Saint-Lazare -> Havre – Caumartin -> Saint-Augustin -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Vavin -> Raspail -> Denfert-Rochereau -> Saint-Jacques -> Glacière -> Corvisart -> Place d'Italie -> Tolbiac -> Maison Blanche -> Porte d'Italie -> Porte de Choisy -> Porte d'Ivry -> Pierre et Marie Curie
+Nombre d'itérations : 66587
+Temps d'exécution : 3.07 secondes
+Utilisation de la mémoire : 499960 bytes
+Longueur du chemin : 34 stations
+
+Départ : Saint-Denis Université
+Arrivée : Pierre et Marie Curie
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Saint-Denis Université -> Basilique de Saint-Denis -> Saint-Denis – Porte de Paris -> Carrefour Pleyel -> Mairie de Saint-Ouen -> Saint-Ouen -> Porte de Clichy -> Pont Cardinet -> Saint-Lazare -> Havre – Caumartin -> Opéra -> Pyramides -> Châtelet -> Pont Marie -> Sully – Morland -> Jussieu -> Place Monge -> Censier – Daubenton -> Les Gobelins -> Place d'Italie -> Tolbiac -> Maison Blanche -> Porte d'Italie -> Porte de Choisy -> Porte d'Ivry -> Pierre et Marie Curie
+Nombre d'itérations : 42
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 472 bytes
+Longueur du chemin : 26 stations
+
+Départ : Saint-Denis Université
+Arrivée : Pierre et Marie Curie
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Saint-Denis Université -> Basilique de Saint-Denis -> Saint-Denis – Porte de Paris -> Carrefour Pleyel -> Mairie de Saint-Ouen -> Garibaldi -> Porte de Saint-Ouen -> Guy Môquet -> La Fourche -> Place de Clichy -> Rome -> Villiers -> Monceau -> Courcelles -> Ternes -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Tuileries -> Palais Royal - Musée du Louvre -> Louvre - Rivoli -> Châtelet -> Pont Marie -> Sully – Morland -> Jussieu -> Place Monge -> Censier – Daubenton -> Les Gobelins -> Place d'Italie -> Tolbiac -> Maison Blanche -> Porte d'Italie -> Porte de Choisy -> Porte d'Ivry -> Pierre et Marie Curie
+Nombre d'itérations : 37
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 37 stations
+
+Départ : Saint-Denis Université
+Arrivée : Pierre et Marie Curie
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Saint-Denis Université -> Basilique de Saint-Denis -> Saint-Denis – Porte de Paris -> Carrefour Pleyel -> Mairie de Saint-Ouen -> Saint-Ouen -> Porte de Clichy -> Pont Cardinet -> Saint-Lazare -> Havre – Caumartin -> Opéra -> Pyramides -> Châtelet -> Pont Marie -> Sully – Morland -> Jussieu -> Place Monge -> Censier – Daubenton -> Les Gobelins -> Place d'Italie -> Tolbiac -> Maison Blanche -> Porte d'Italie -> Porte de Choisy -> Porte d'Ivry -> Pierre et Marie Curie
+Nombre d'itérations : 37
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 312 bytes
+Longueur du chemin : 26 stations
+================================
+25-April 14:23:
+
+Départ : Boulogne – Pont de Saint-Cloud
+Arrivée : Porte de Bagnolet
+Algorithme : BFS
+Chemin trouvé par BFS :
+Boulogne – Pont de Saint-Cloud -> Boulogne – Jean Jaurès -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> École Militaire -> La Tour-Maubourg -> Invalides -> Concorde -> Madeleine -> Opéra -> Richelieu – Drouot -> Grands Boulevards -> Bonne Nouvelle -> Strasbourg – Saint-Denis -> République -> Parmentier -> Rue Saint-Maur -> Père Lachaise -> Gambetta -> Porte de Bagnolet
+Nombre d'itérations : 334
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 25 stations
+
+Départ : Boulogne – Pont de Saint-Cloud
+Arrivée : Porte de Bagnolet
+Algorithme : Random Search
+Chemin trouvé par Random Search :
+Boulogne – Pont de Saint-Cloud -> Boulogne – Jean Jaurès -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> École Militaire -> La Tour-Maubourg -> Invalides -> Champs-Élysées – Clémenceau -> Miromesnil -> Saint-Lazare -> Havre – Caumartin -> Opéra -> Richelieu – Drouot -> Grands Boulevards -> Bonne Nouvelle -> Strasbourg – Saint-Denis -> République -> Parmentier -> Rue Saint-Maur -> Père Lachaise -> Gambetta -> Porte de Bagnolet
+Nombre d'itérations : 5351
+Temps d'exécution : 0.17 secondes
+Utilisation de la mémoire : 47160 bytes
+Longueur du chemin : 27 stations
+
+Départ : Boulogne – Pont de Saint-Cloud
+Arrivée : Porte de Bagnolet
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Boulogne – Pont de Saint-Cloud -> Boulogne – Jean Jaurès -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Lazare -> Havre – Caumartin -> Opéra -> Quatre Septembre -> Bourse -> Sentier -> Réaumur – Sébastopol -> Arts et Métiers -> République -> Parmentier -> Rue Saint-Maur -> Père Lachaise -> Gambetta -> Porte de Bagnolet
+Nombre d'itérations : 129
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 1080 bytes
+Longueur du chemin : 28 stations
+
+Départ : Boulogne – Pont de Saint-Cloud
+Arrivée : Porte de Bagnolet
+Algorithme : Beam Search
+Aucun chemin trouvé par Beam Search.
+
+Départ : Boulogne – Pont de Saint-Cloud
+Arrivée : Porte de Bagnolet
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Boulogne – Pont de Saint-Cloud -> Boulogne – Jean Jaurès -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Lazare -> Havre – Caumartin -> Opéra -> Quatre Septembre -> Bourse -> Sentier -> Réaumur – Sébastopol -> Arts et Métiers -> République -> Parmentier -> Rue Saint-Maur -> Père Lachaise -> Gambetta -> Porte de Bagnolet
+Nombre d'itérations : 85
+Temps d'exécution : 0.02 secondes
+Utilisation de la mémoire : 504 bytes
+Longueur du chemin : 28 stations
+================================
+25-April 14:42:
+
+Départ : Les Agnettes
+Arrivée : Créteil – Préfecture
+Algorithme : BFS
+Chemin trouvé par BFS :
+Les Agnettes -> Gabriel Péri -> Mairie de Clichy -> Porte de Clichy -> Pont Cardinet -> Saint-Lazare -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Bercy -> Dugommier -> Daumesnil -> Michel Bizot -> Porte Dorée -> Porte de Charenton -> Liberté -> Charenton – Écoles -> École Vétérinaire de Maisons-Alfort -> Maisons-Alfort – Stade -> Maisons-Alfort – Les Juilliottes -> Créteil – L'Échat -> Créteil – Université -> Créteil – Préfecture
+Nombre d'itérations : 362
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 24 stations
+
+Départ : Les Agnettes
+Arrivée : Créteil – Préfecture
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Les Agnettes -> Gabriel Péri -> Mairie de Clichy -> Porte de Clichy -> Pont Cardinet -> Saint-Lazare -> Madeleine -> Opéra -> Richelieu – Drouot -> Grands Boulevards -> Bonne Nouvelle -> Strasbourg – Saint-Denis -> République -> Filles du Calvaire -> Saint-Sébastien – Froissart -> Chemin Vert -> Bastille -> Ledru-Rollin -> Faidherbe – Chaligny -> Reuilly – Diderot -> Montgallet -> Daumesnil -> Michel Bizot -> Porte Dorée -> Porte de Charenton -> Liberté -> Charenton – Écoles -> École Vétérinaire de Maisons-Alfort -> Maisons-Alfort – Stade -> Maisons-Alfort – Les Juilliottes -> Créteil – L'Échat -> Créteil – Université -> Créteil – Préfecture
+Nombre d'itérations : 53
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 568 bytes
+Longueur du chemin : 33 stations
+
+Départ : Les Agnettes
+Arrivée : Créteil – Préfecture
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Les Agnettes -> Asnières – Gennevilliers – Les Courtilles -> Châtillon – Montrouge -> Malakoff – Rue Étienne Dolet -> Malakoff – Plateau de Vanves -> Porte de Vanves -> Plaisance -> Pernety -> Gaîté -> Montparnasse – Bienvenüe -> Saint-Placide -> Saint-Sulpice -> Saint-Germain-des-Prés -> Odéon -> Saint-Michel -> Cité -> Châtelet -> Hôtel de Ville -> Saint-Paul -> Bastille -> Ledru-Rollin -> Faidherbe – Chaligny -> Reuilly – Diderot -> Montgallet -> Daumesnil -> Michel Bizot -> Porte Dorée -> Porte de Charenton -> Liberté -> Charenton – Écoles -> École Vétérinaire de Maisons-Alfort -> Maisons-Alfort – Stade -> Maisons-Alfort – Les Juilliottes -> Créteil – L'Échat -> Créteil – Université -> Créteil – Préfecture
+Nombre d'itérations : 36
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 36 stations
+
+Départ : Les Agnettes
+Arrivée : Créteil – Préfecture
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Les Agnettes -> Gabriel Péri -> Mairie de Clichy -> Porte de Clichy -> Pont Cardinet -> Saint-Lazare -> Madeleine -> Opéra -> Richelieu – Drouot -> Grands Boulevards -> Bonne Nouvelle -> Strasbourg – Saint-Denis -> République -> Filles du Calvaire -> Saint-Sébastien – Froissart -> Chemin Vert -> Bastille -> Ledru-Rollin -> Faidherbe – Chaligny -> Reuilly – Diderot -> Montgallet -> Daumesnil -> Michel Bizot -> Porte Dorée -> Porte de Charenton -> Liberté -> Charenton – Écoles -> École Vétérinaire de Maisons-Alfort -> Maisons-Alfort – Stade -> Maisons-Alfort – Les Juilliottes -> Créteil – L'Échat -> Créteil – Université -> Créteil – Préfecture
+Nombre d'itérations : 46
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 376 bytes
+Longueur du chemin : 33 stations
+
+Départ : Les Agnettes
+Arrivée : Créteil – Préfecture
+Algorithme : Random Search
+Chemin trouvé par Random Search :
+Les Agnettes -> Gabriel Péri -> Mairie de Clichy -> Porte de Clichy -> Pont Cardinet -> Saint-Lazare -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Bercy -> Dugommier -> Daumesnil -> Michel Bizot -> Porte Dorée -> Porte de Charenton -> Liberté -> Charenton – Écoles -> École Vétérinaire de Maisons-Alfort -> Maisons-Alfort – Stade -> Maisons-Alfort – Les Juilliottes -> Créteil – L'Échat -> Créteil – Université -> Créteil – Préfecture
+Nombre d'itérations : 597086
+Temps d'exécution : 115.63 secondes
+Utilisation de la mémoire : 5274392 bytes
+Longueur du chemin : 24 stations
+================================
+26-April 00:43:
+
+Départ : Les Agnettes
+Arrivée : Créteil – Préfecture
+Algorithme : BFS
+Chemin trouvé par BFS :
+Les Agnettes -> Gabriel Péri -> Mairie de Clichy -> Porte de Clichy -> Pont Cardinet -> Saint-Lazare -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Bercy -> Dugommier -> Daumesnil -> Michel Bizot -> Porte Dorée -> Porte de Charenton -> Liberté -> Charenton – Écoles -> École Vétérinaire de Maisons-Alfort -> Maisons-Alfort – Stade -> Maisons-Alfort – Les Juilliottes -> Créteil – L'Échat -> Créteil – Université -> Créteil – Préfecture
+Nombre d'itérations : 534
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 29 minutes
+================================
+26-April 00:55:
+
+Départ : Les Agnettes
+Arrivée : Créteil – Préfecture
+Algorithme : BFS
+Chemin trouvé par BFS :
+Les Agnettes -> Gabriel Péri -> Mairie de Clichy -> Porte de Clichy -> Pont Cardinet -> Saint-Lazare -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Bercy -> Dugommier -> Daumesnil -> Michel Bizot -> Porte Dorée -> Porte de Charenton -> Liberté -> Charenton – Écoles -> École Vétérinaire de Maisons-Alfort -> Maisons-Alfort – Stade -> Maisons-Alfort – Les Juilliottes -> Créteil – L'Échat -> Créteil – Université -> Créteil – Préfecture
+Lignes utilisé : ['13 Porte de Clichy - Pont Cardinet', '14 Saint-Lazare - Madeleine', '12 Madeleine - Pyramides', '14 Bercy - Dugommier', '6 Daumesnil - Michel Bizot'] minutes
+Nombre d'itérations : 534
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 29 minutes
+================================
+26-April 00:57:
+
+Départ : Les Agnettes
+Arrivée : Créteil – Préfecture
+Algorithme : BFS
+`Chemin trouvé par BFS :
+Les Agnettes -> Gabriel Péri -> Mairie de Clichy -> Porte de Clichy -> Pont Cardinet -> Saint-Lazare -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Bercy -> Dugommier -> Daumesnil -> Michel Bizot -> Porte Dorée -> Porte de Charenton -> Liberté -> Charenton – Écoles -> École Vétérinaire de Maisons-Alfort -> Maisons-Alfort – Stade -> Maisons-Alfort – Les Juilliottes -> Créteil – L'Échat -> Créteil – Université -> Créteil – Préfecture
+Lignes utilisé : ['13 Porte de Clichy - Pont Cardinet', '14 Saint-Lazare - Madeleine', '12 Madeleine - Pyramides', '14 Bercy - Dugommier', '6 Daumesnil - Michel Bizot']
+`Nombre d'itérations : 534
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 29 minutes
+================================
+26-April 01:07:
+
+Départ : Les Agnettes
+Arrivée : Créteil – Préfecture
+Algorithme : BFS
+Chemin trouvé par BFS :
+Les Agnettes -> Gabriel Péri -> Mairie de Clichy -> Porte de Clichy -> Pont Cardinet -> Saint-Lazare -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Bercy -> Dugommier -> Daumesnil -> Michel Bizot -> Porte Dorée -> Porte de Charenton -> Liberté -> Charenton – Écoles -> École Vétérinaire de Maisons-Alfort -> Maisons-Alfort – Stade -> Maisons-Alfort – Les Juilliottes -> Créteil – L'Échat -> Créteil – Université -> Créteil – Préfecture
+Lignes utilisé : ['13 Gabriel Péri - Porte de Clichy', '14 Pont Cardinet - Saint-Lazare', '12 Madeleine - Madeleine', '14 Pyramides - Bercy', '6 Dugommier - Daumesnil', '8 Michel Bizot - Créteil – Préfecture'] 
+Nombre d'itérations : 534
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 29 minutes
+================================
+26-April 01:11:
+
+Départ : Barbara
+Arrivée : La Courneuve – 8 Mai 1945
+Algorithme : BFS
+Chemin trouvé par BFS :
+Barbara -> Mairie de Montrouge -> Porte d'Orléans -> Alésia -> Mouton-Duvernet -> Denfert-Rochereau -> Raspail -> Vavin -> Montparnasse – Bienvenüe -> Duroc -> Saint-François-Xavier -> Varenne -> Invalides -> Concorde -> Madeleine -> Opéra -> Chaussée d'Antin – La Fayette -> Le Peletier -> Cadet -> Poissonnière -> Gare de l'Est -> Gare du Nord -> Stalingrad -> Riquet -> Crimée -> Corentin Cariou -> Porte de la Villette -> Aubervilliers – Pantin – Quatre Chemins -> Fort d'Aubervilliers -> La Courneuve – 8 Mai 1945
+Lignes utilisé : ['4 Mairie de Montrouge - Montparnasse – Bienvenüe', '13 Duroc - Invalides', '8 Concorde - Opéra', "7 Chaussée d'Antin – La Fayette - Gare de l'Est", '4 Gare du Nord - Gare du Nord', '5 Stalingrad - Stalingrad', '7 Riquet - La Courneuve – 8 Mai 1945'] 
+Nombre d'itérations : 549
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 30 stations
+temps de voyage : 36 minutes
+================================
+26-April 01:19:
+
+Départ : Barbara
+Arrivée : La Courneuve – 8 Mai 1945
+Algorithme : BFS
+Chemin trouvé par BFS :
+Barbara -> Mairie de Montrouge -> Porte d'Orléans -> Alésia -> Mouton-Duvernet -> Denfert-Rochereau -> Raspail -> Vavin -> Montparnasse – Bienvenüe -> Duroc -> Saint-François-Xavier -> Varenne -> Invalides -> Concorde -> Madeleine -> Opéra -> Chaussée d'Antin – La Fayette -> Le Peletier -> Cadet -> Poissonnière -> Gare de l'Est -> Gare du Nord -> Stalingrad -> Riquet -> Crimée -> Corentin Cariou -> Porte de la Villette -> Aubervilliers – Pantin – Quatre Chemins -> Fort d'Aubervilliers -> La Courneuve – 8 Mai 1945
+Lignes utilisé : ['4 Mairie de Montrouge - Montparnasse – Bienvenüe', '13 Duroc - Invalides', '8 Concorde - Opéra', "7 Chaussée d'Antin – La Fayette - Gare de l'Est", '4 Gare du Nord - Gare du Nord', '5 Stalingrad - Stalingrad', '7 Riquet - La Courneuve – 8 Mai 1945'] 
+Nombre d'itérations : 549
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 30 stations
+temps de voyage : 36 minutes
+
+Départ : Barbara
+Arrivée : La Courneuve – 8 Mai 1945
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Barbara -> Mairie de Montrouge -> Porte d'Orléans -> Alésia -> Mouton-Duvernet -> Denfert-Rochereau -> Saint-Jacques -> Glacière -> Corvisart -> Place d'Italie -> Les Gobelins -> Censier – Daubenton -> Place Monge -> Jussieu -> Sully – Morland -> Pont Marie -> Châtelet -> Pyramides -> Opéra -> Chaussée d'Antin – La Fayette -> Le Peletier -> Cadet -> Poissonnière -> Gare de l'Est -> Château-Landon -> Louis Blanc -> Stalingrad -> Riquet -> Crimée -> Corentin Cariou -> Porte de la Villette -> Aubervilliers – Pantin – Quatre Chemins -> Fort d'Aubervilliers -> La Courneuve – 8 Mai 1945
+Lignes utilisé : ['4 Mairie de Montrouge - Saint-Jacques', '6 Saint-Jacques - Les Gobelins', '7 Les Gobelins - Pyramides', '14 Pyramides - Opéra', '7 Opéra - La Courneuve – 8 Mai 1945'] 
+Nombre d'itérations : 43
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 472 bytes
+Longueur du chemin : 34 stations
+temps de voyage : 38 minutes
+================================
+26-April 01:22:
+
+Départ : La défense
+Arrivée : Châtillon – Montrouge
+Algorithme : BFS
+Aucun chemin trouvé par BFS.
+
+Départ : La défense
+Arrivée : Châtillon – Montrouge
+Algorithme : Greedy Search
+Aucun chemin trouvé par Greedy Search.
+================================
+26-April 01:22:
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : BFS
+Chemin trouvé par BFS :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes -> Asnières – Gennevilliers – Les Courtilles -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Châtillon – Montrouge'] 
+Nombre d'itérations : 398
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 19 stations
+temps de voyage : 23 minutes
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Saint-Philippe du Roule', '9 Saint-Philippe du Roule - Champs-Élysées – Clémenceau', '13 Champs-Élysées – Clémenceau - Châtillon – Montrouge'] 
+Nombre d'itérations : 30
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 184 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 26 minutes
+================================
+26-April 01:36:
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : BFS
+Chemin trouvé par BFS :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes -> Asnières – Gennevilliers – Les Courtilles -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Châtillon – Montrouge'] 
+Nombre d'itérations : 398
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 19 stations
+temps de voyage : 23 minutes
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Champs-Élysées – Clémenceau - Châtillon – Montrouge'] 
+Nombre d'itérations : 30
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 184 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 26 minutes
+================================
+26-April 01:45:
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : BFS
+Chemin trouvé par BFS :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes -> Asnières – Gennevilliers – Les Courtilles -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Châtillon – Montrouge'] 
+Nombre d'itérations : 398
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 19 stations
+temps de voyage : 23 minutes
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Champs-Élysées – Clémenceau - Châtillon – Montrouge'] 
+Nombre d'itérations : 30
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 184 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 26 minutes
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Concorde', '8 Invalides - Invalides', '13 Varenne - Châtillon – Montrouge'] 
+Nombre d'itérations : 23
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 23 stations
+temps de voyage : 25 minutes
+================================
+26-April 01:56:
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : BFS
+Chemin trouvé par BFS :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes -> Asnières – Gennevilliers – Les Courtilles -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Châtillon – Montrouge'] 
+Nombre d'itérations : 398
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 19 stations
+temps de voyage : 23 minutes
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Champs-Élysées – Clémenceau - Châtillon – Montrouge'] 
+Nombre d'itérations : 30
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 184 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 26 minutes
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Concorde', '8 Invalides - Invalides', '13 Varenne - Châtillon – Montrouge'] 
+Nombre d'itérations : 23
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 23 stations
+temps de voyage : 25 minutes
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Concorde', '8 Invalides - Invalides', '13 Varenne - Châtillon – Montrouge'] 
+Nombre d'itérations : 28
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 248 bytes
+Longueur du chemin : 23 stations
+temps de voyage : 25 minutes
+================================
+26-April 01:57:
+
+Départ : Victor Hugo
+Arrivée : Basilique de Saint-Denis
+Algorithme : BFS
+Chemin trouvé par BFS :
+Victor Hugo -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Saint-Ouen -> Mairie de Saint-Ouen -> Carrefour Pleyel -> Saint-Denis – Porte de Paris -> Basilique de Saint-Denis
+Lignes utilisé : ['2 Charles de Gaulle - Étoile - Charles de Gaulle - Étoile', '1 George V - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Mairie de Saint-Ouen', '13 Carrefour Pleyel - Basilique de Saint-Denis'] 
+Nombre d'itérations : 400
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 14 stations
+temps de voyage : 19 minutes
+
+Départ : Victor Hugo
+Arrivée : Basilique de Saint-Denis
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Victor Hugo -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Lazare -> Liège -> Place de Clichy -> La Fourche -> Guy Môquet -> Porte de Saint-Ouen -> Garibaldi -> Mairie de Saint-Ouen -> Carrefour Pleyel -> Saint-Denis – Porte de Paris -> Basilique de Saint-Denis
+Lignes utilisé : ['2 Charles de Gaulle - Étoile - Charles de Gaulle - Étoile', '1 George V - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Saint-Lazare - Basilique de Saint-Denis'] 
+Nombre d'itérations : 25
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 184 bytes
+Longueur du chemin : 17 stations
+temps de voyage : 20 minutes
+
+Départ : Victor Hugo
+Arrivée : Basilique de Saint-Denis
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Victor Hugo -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Invalides -> Champs-Élysées – Clémenceau -> Miromesnil -> Saint-Lazare -> Liège -> Place de Clichy -> La Fourche -> Guy Môquet -> Porte de Saint-Ouen -> Garibaldi -> Mairie de Saint-Ouen -> Carrefour Pleyel -> Saint-Denis – Porte de Paris -> Basilique de Saint-Denis
+Lignes utilisé : ['2 Charles de Gaulle - Étoile - Charles de Gaulle - Étoile', '1 George V - Concorde', '8 Invalides - Invalides', '13 Champs-Élysées – Clémenceau - Basilique de Saint-Denis'] 
+Nombre d'itérations : 20
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 20 stations
+temps de voyage : 23 minutes
+
+Départ : Victor Hugo
+Arrivée : Basilique de Saint-Denis
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Victor Hugo -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Invalides -> Champs-Élysées – Clémenceau -> Miromesnil -> Saint-Lazare -> Liège -> Place de Clichy -> La Fourche -> Guy Môquet -> Porte de Saint-Ouen -> Garibaldi -> Mairie de Saint-Ouen -> Carrefour Pleyel -> Saint-Denis – Porte de Paris -> Basilique de Saint-Denis
+Lignes utilisé : ['2 Charles de Gaulle - Étoile - Charles de Gaulle - Étoile', '1 George V - Concorde', '8 Invalides - Invalides', '13 Champs-Élysées – Clémenceau - Basilique de Saint-Denis'] 
+Nombre d'itérations : 30
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 248 bytes
+Longueur du chemin : 20 stations
+temps de voyage : 23 minutes
+================================
+26-April 02:07:
+
+Départ : Victor Hugo
+Arrivée : Basilique de Saint-Denis
+Algorithme : BFS
+Chemin trouvé par BFS :
+Victor Hugo -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Saint-Ouen -> Mairie de Saint-Ouen -> Carrefour Pleyel -> Saint-Denis – Porte de Paris -> Basilique de Saint-Denis
+Lignes utilisé : ['2 Charles de Gaulle - Étoile - Charles de Gaulle - Étoile', '1 George V - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Mairie de Saint-Ouen', '13 Carrefour Pleyel - Basilique de Saint-Denis'] 
+Nombre d'itérations : 400
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 14 stations
+temps de voyage : 19 minutes
+
+Départ : Victor Hugo
+Arrivée : Basilique de Saint-Denis
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Victor Hugo -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Lazare -> Liège -> Place de Clichy -> La Fourche -> Guy Môquet -> Porte de Saint-Ouen -> Garibaldi -> Mairie de Saint-Ouen -> Carrefour Pleyel -> Saint-Denis – Porte de Paris -> Basilique de Saint-Denis
+Lignes utilisé : ['2 Charles de Gaulle - Étoile - Charles de Gaulle - Étoile', '1 George V - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Saint-Lazare - Basilique de Saint-Denis'] 
+Nombre d'itérations : 25
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 184 bytes
+Longueur du chemin : 17 stations
+temps de voyage : 20 minutes
+
+Départ : Victor Hugo
+Arrivée : Basilique de Saint-Denis
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Victor Hugo -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Invalides -> Champs-Élysées – Clémenceau -> Miromesnil -> Saint-Lazare -> Liège -> Place de Clichy -> La Fourche -> Guy Môquet -> Porte de Saint-Ouen -> Garibaldi -> Mairie de Saint-Ouen -> Carrefour Pleyel -> Saint-Denis – Porte de Paris -> Basilique de Saint-Denis
+Lignes utilisé : ['2 Charles de Gaulle - Étoile - Charles de Gaulle - Étoile', '1 George V - Concorde', '8 Invalides - Invalides', '13 Champs-Élysées – Clémenceau - Basilique de Saint-Denis'] 
+Nombre d'itérations : 20
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 20 stations
+temps de voyage : 23 minutes
+
+Départ : Victor Hugo
+Arrivée : Basilique de Saint-Denis
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Victor Hugo -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Invalides -> Champs-Élysées – Clémenceau -> Miromesnil -> Saint-Lazare -> Liège -> Place de Clichy -> La Fourche -> Guy Môquet -> Porte de Saint-Ouen -> Garibaldi -> Mairie de Saint-Ouen -> Carrefour Pleyel -> Saint-Denis – Porte de Paris -> Basilique de Saint-Denis
+Lignes utilisé : ['2 Charles de Gaulle - Étoile - Charles de Gaulle - Étoile', '1 George V - Concorde', '8 Invalides - Invalides', '13 Champs-Élysées – Clémenceau - Basilique de Saint-Denis'] 
+Nombre d'itérations : 30
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 248 bytes
+Longueur du chemin : 20 stations
+temps de voyage : 23 minutes
+
+Départ : Victor Hugo
+Arrivée : Basilique de Saint-Denis
+Algorithme : Random Search
+Chemin trouvé par Random Search :
+Victor Hugo -> Charles de Gaulle - Étoile -> Ternes -> Courcelles -> Monceau -> Villiers -> Rome -> Place de Clichy -> Liège -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Saint-Ouen -> Mairie de Saint-Ouen -> Carrefour Pleyel -> Saint-Denis – Porte de Paris -> Basilique de Saint-Denis
+Lignes utilisé : ['2 Charles de Gaulle - Étoile - Place de Clichy', '13 Liège - Saint-Lazare', '14 Pont Cardinet - Mairie de Saint-Ouen', '13 Carrefour Pleyel - Basilique de Saint-Denis'] 
+Nombre d'itérations : 1105
+Temps d'exécution : 0.07 secondes
+Utilisation de la mémoire : 10008 bytes
+Longueur du chemin : 17 stations
+temps de voyage : 20 minutes
+================================
+26-April 02:17:
+
+Départ : Michel-Ange – Molitor
+Arrivée : Nation
+Algorithme : BFS
+Chemin trouvé par BFS :
+Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> École Militaire -> La Tour-Maubourg -> Invalides -> Concorde -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation
+Lignes utilisé : ['9 Michel-Ange – Auteuil - Michel-Ange – Auteuil', "10 Église d'Auteuil - La Motte-Picquet – Grenelle", '8 École Militaire - Madeleine', '14 Pyramides - Gare de Lyon', '1 Reuilly - Diderot - Nation'] 
+Nombre d'itérations : 311
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 1152 bytes
+Longueur du chemin : 17 stations
+temps de voyage : 21 minutes
+
+Départ : Michel-Ange – Molitor
+Arrivée : Nation
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Tuileries -> Palais Royal - Musée du Louvre -> Louvre - Rivoli -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation
+Lignes utilisé : ['9 Michel-Ange – Auteuil - Franklin D. Roosevelt', '1 Champs-Élysées - Clemenceau - Châtelet', '14 Gare de Lyon - Gare de Lyon', '1 Reuilly - Diderot - Nation'] 
+Nombre d'itérations : 19
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 248 bytes
+Longueur du chemin : 19 stations
+temps de voyage : 22 minutes
+
+Départ : Michel-Ange – Molitor
+Arrivée : Nation
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Tuileries -> Palais Royal - Musée du Louvre -> Louvre - Rivoli -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation
+Lignes utilisé : ['9 Michel-Ange – Auteuil - Franklin D. Roosevelt', '1 Champs-Élysées - Clemenceau - Châtelet', '14 Gare de Lyon - Gare de Lyon', '1 Reuilly - Diderot - Nation'] 
+Nombre d'itérations : 19
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 19 stations
+temps de voyage : 22 minutes
+
+Départ : Michel-Ange – Molitor
+Arrivée : Nation
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Tuileries -> Palais Royal - Musée du Louvre -> Louvre - Rivoli -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation
+Lignes utilisé : ['9 Michel-Ange – Auteuil - Franklin D. Roosevelt', '1 Champs-Élysées - Clemenceau - Châtelet', '14 Gare de Lyon - Gare de Lyon', '1 Reuilly - Diderot - Nation'] 
+Nombre d'itérations : 21
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 248 bytes
+Longueur du chemin : 19 stations
+temps de voyage : 22 minutes
+
+Départ : Michel-Ange – Molitor
+Arrivée : Nation
+Algorithme : Random Search
+Chemin trouvé par Random Search :
+Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> Cambronne -> Sèvres – Lecourbe -> Pasteur -> Montparnasse – Bienvenüe -> Saint-Placide -> Saint-Sulpice -> Saint-Germain-des-Prés -> Odéon -> Saint-Michel -> Cité -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation
+Lignes utilisé : ['9 Michel-Ange – Auteuil - Michel-Ange – Auteuil', "10 Église d'Auteuil - La Motte-Picquet – Grenelle", '6 Cambronne - Montparnasse – Bienvenüe', '4 Saint-Placide - Châtelet', '14 Gare de Lyon - Gare de Lyon', '1 Reuilly - Diderot - Nation'] 
+Nombre d'itérations : 404
+Temps d'exécution : 0.03 secondes
+Utilisation de la mémoire : 2904 bytes
+Longueur du chemin : 21 stations
+temps de voyage : 26 minutes
+================================
+26-April 02:18:
+
+Départ : Michel-Ange – Molitor
+Arrivée : Porte Dauphine
+Algorithme : BFS
+Chemin trouvé par BFS :
+Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Victor Hugo -> Porte Dauphine
+Lignes utilisé : ['9 Michel-Ange – Auteuil - Franklin D. Roosevelt', '1 George V - Charles de Gaulle - Étoile', '2 Victor Hugo - Porte Dauphine'] 
+Nombre d'itérations : 151
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 1152 bytes
+Longueur du chemin : 14 stations
+temps de voyage : 16 minutes
+
+Départ : Michel-Ange – Molitor
+Arrivée : Porte Dauphine
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Victor Hugo -> Porte Dauphine
+Lignes utilisé : ['9 Michel-Ange – Auteuil - Franklin D. Roosevelt', '1 George V - Charles de Gaulle - Étoile', '2 Victor Hugo - Porte Dauphine'] 
+Nombre d'itérations : 53
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 280 bytes
+Longueur du chemin : 14 stations
+temps de voyage : 16 minutes
+
+Départ : Michel-Ange – Molitor
+Arrivée : Porte Dauphine
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Passy -> Bir-Hakeim -> Dupleix -> La Motte-Picquet – Grenelle -> Cambronne -> Sèvres – Lecourbe -> Pasteur -> Montparnasse – Bienvenüe -> Saint-Placide -> Saint-Sulpice -> Saint-Germain-des-Prés -> Odéon -> Saint-Michel -> Cité -> Châtelet -> Louvre - Rivoli -> Palais Royal - Musée du Louvre -> Tuileries -> Concorde -> Champs-Élysées - Clemenceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Victor Hugo -> Porte Dauphine
+Lignes utilisé : ['9 Michel-Ange – Auteuil - Trocadéro', '6 Passy - Montparnasse – Bienvenüe', '4 Saint-Placide - Châtelet', '1 Louvre - Rivoli - Charles de Gaulle - Étoile', '2 Victor Hugo - Porte Dauphine'] 
+Nombre d'itérations : 32
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 32 stations
+temps de voyage : 36 minutes
+
+Départ : Michel-Ange – Molitor
+Arrivée : Porte Dauphine
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Victor Hugo -> Porte Dauphine
+Lignes utilisé : ['9 Michel-Ange – Auteuil - Franklin D. Roosevelt', '1 George V - Charles de Gaulle - Étoile', '2 Victor Hugo - Porte Dauphine'] 
+Nombre d'itérations : 50
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 184 bytes
+Longueur du chemin : 14 stations
+temps de voyage : 16 minutes
+
+Départ : Michel-Ange – Molitor
+Arrivée : Porte Dauphine
+Algorithme : Random Search
+Chemin trouvé par Random Search :
+Michel-Ange – Molitor -> Chardon-Lagache -> Mirabeau -> Porte d'Auteuil -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Victor Hugo -> Porte Dauphine
+Lignes utilisé : ['10 Chardon-Lagache - Michel-Ange – Auteuil', '9 Jasmin - Franklin D. Roosevelt', '1 George V - Charles de Gaulle - Étoile', '2 Victor Hugo - Porte Dauphine'] 
+Nombre d'itérations : 309
+Temps d'exécution : 0.03 secondes
+Utilisation de la mémoire : 2872 bytes
+Longueur du chemin : 17 stations
+temps de voyage : 20 minutes
+================================
+24-May 10:42:
+
+Départ : Michel-Ange – Molitor
+Arrivée : Porte Dauphine
+Algorithme : BFS
+Chemin trouvé par BFS :
+Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Victor Hugo -> Porte Dauphine
+Lignes utilisé : ['9 Michel-Ange – Auteuil - Franklin D. Roosevelt', '1 George V - Charles de Gaulle - Étoile', '2 Victor Hugo - Porte Dauphine'] 
+Nombre d'itérations : 151
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 1152 bytes
+Longueur du chemin : 14 stations
+temps de voyage : 16 minutes
+
+Départ : Michel-Ange – Molitor
+Arrivée : Porte Dauphine
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Victor Hugo -> Porte Dauphine
+Lignes utilisé : ['9 Michel-Ange – Auteuil - Franklin D. Roosevelt', '1 George V - Charles de Gaulle - Étoile', '2 Victor Hugo - Porte Dauphine'] 
+Nombre d'itérations : 53
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 280 bytes
+Longueur du chemin : 14 stations
+temps de voyage : 16 minutes
+
+Départ : Michel-Ange – Molitor
+Arrivée : Porte Dauphine
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Passy -> Bir-Hakeim -> Dupleix -> La Motte-Picquet – Grenelle -> Cambronne -> Sèvres – Lecourbe -> Pasteur -> Montparnasse – Bienvenüe -> Saint-Placide -> Saint-Sulpice -> Saint-Germain-des-Prés -> Odéon -> Saint-Michel -> Cité -> Châtelet -> Louvre - Rivoli -> Palais Royal - Musée du Louvre -> Tuileries -> Concorde -> Champs-Élysées - Clemenceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Victor Hugo -> Porte Dauphine
+Lignes utilisé : ['9 Michel-Ange – Auteuil - Trocadéro', '6 Passy - Montparnasse – Bienvenüe', '4 Saint-Placide - Châtelet', '1 Louvre - Rivoli - Charles de Gaulle - Étoile', '2 Victor Hugo - Porte Dauphine'] 
+Nombre d'itérations : 32
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 32 stations
+temps de voyage : 36 minutes
+
+Départ : Michel-Ange – Molitor
+Arrivée : Porte Dauphine
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Victor Hugo -> Porte Dauphine
+Lignes utilisé : ['9 Michel-Ange – Auteuil - Franklin D. Roosevelt', '1 George V - Charles de Gaulle - Étoile', '2 Victor Hugo - Porte Dauphine'] 
+Nombre d'itérations : 50
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 184 bytes
+Longueur du chemin : 14 stations
+temps de voyage : 16 minutes
+
+Départ : Michel-Ange – Molitor
+Arrivée : Porte Dauphine
+Algorithme : Random Search
+Chemin trouvé par Random Search :
+Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> École Militaire -> La Tour-Maubourg -> Invalides -> Champs-Élysées – Clémenceau -> Miromesnil -> Saint-Lazare -> Madeleine -> Concorde -> Champs-Élysées - Clemenceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Victor Hugo -> Porte Dauphine
+Lignes utilisé : ['9 Michel-Ange – Auteuil - Michel-Ange – Auteuil', "10 Église d'Auteuil - La Motte-Picquet – Grenelle", '8 École Militaire - Invalides', '13 Champs-Élysées – Clémenceau - Saint-Lazare', '14 Madeleine - Madeleine', '8 Concorde - Concorde', '1 Champs-Élysées - Clemenceau - Charles de Gaulle - Étoile', '2 Victor Hugo - Porte Dauphine'] 
+Nombre d'itérations : 1824
+Temps d'exécution : 0.09 secondes
+Utilisation de la mémoire : 16184 bytes
+Longueur du chemin : 21 stations
+temps de voyage : 28 minutes
+================================
+24-May 10:45:
+
+Départ : Créteil – Préfecture
+Arrivée : Esplanade de La Défense
+Algorithme : BFS
+Chemin trouvé par BFS :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Concorde -> Champs-Élysées - Clemenceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Argentine -> Porte Maillot -> Les Sablons -> Pont de Neuilly -> Esplanade de La Défense
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Madeleine', '8 Concorde - Concorde', '1 Champs-Élysées - Clemenceau - Esplanade de La Défense'] 
+Nombre d'itérations : 510
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 1152 bytes
+Longueur du chemin : 28 stations
+temps de voyage : 32 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Esplanade de La Défense
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Louvre - Rivoli -> Palais Royal - Musée du Louvre -> Tuileries -> Concorde -> Champs-Élysées - Clemenceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Argentine -> Porte Maillot -> Les Sablons -> Pont de Neuilly -> Esplanade de La Défense
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Châtelet', '1 Louvre - Rivoli - Esplanade de La Défense'] 
+Nombre d'itérations : 32
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 248 bytes
+Longueur du chemin : 29 stations
+temps de voyage : 32 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Esplanade de La Défense
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Louvre - Rivoli -> Palais Royal - Musée du Louvre -> Tuileries -> Concorde -> Champs-Élysées - Clemenceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Argentine -> Porte Maillot -> Les Sablons -> Pont de Neuilly -> Esplanade de La Défense
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Châtelet', '1 Louvre - Rivoli - Esplanade de La Défense'] 
+Nombre d'itérations : 29
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 64 bytes
+Longueur du chemin : 29 stations
+temps de voyage : 32 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Esplanade de La Défense
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Bel-Air -> Picpus -> Nation -> Reuilly - Diderot -> Gare de Lyon -> Châtelet -> Louvre - Rivoli -> Palais Royal - Musée du Louvre -> Tuileries -> Concorde -> Champs-Élysées - Clemenceau -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Argentine -> Porte Maillot -> Les Sablons -> Pont de Neuilly -> Esplanade de La Défense
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Bel-Air - Nation', '1 Reuilly - Diderot - Gare de Lyon', '14 Châtelet - Châtelet', '1 Louvre - Rivoli - Esplanade de La Défense'] 
+Nombre d'itérations : 35
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 248 bytes
+Longueur du chemin : 31 stations
+temps de voyage : 35 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Esplanade de La Défense
+Algorithme : Random Search
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Bastille -> Saint-Paul -> Hôtel de Ville -> Châtelet -> Pyramides -> Opéra -> Madeleine -> Saint-Lazare -> Miromesnil -> Saint-Philippe du Roule -> Franklin D. Roosevelt -> George V -> Charles de Gaulle - Étoile -> Argentine -> Porte Maillot -> Les Sablons -> Pont de Neuilly -> Esplanade de La Défense
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Gare de Lyon', '1 Bastille - Châtelet', '14 Pyramides - Pyramides', '7 Opéra - Opéra', '8 Madeleine - Madeleine', '14 Saint-Lazare - Saint-Lazare', '13 Miromesnil - Miromesnil', '9 Saint-Philippe du Roule - Franklin D. Roosevelt', '1 George V - Esplanade de La Défense'] 
+Nombre d'itérations : 6083
+Temps d'exécution : 0.30 secondes
+Utilisation de la mémoire : 47160 bytes
+Longueur du chemin : 33 stations
+temps de voyage : 43 minutes
+================================
+24-May 10:47:
+
+Départ : Bobigny – Pantin – Raymond Queneau
+Arrivée : Corentin Celton
+Algorithme : BFS
+Chemin trouvé par BFS :
+Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> Gare du Nord -> Gare de l'Est -> Poissonnière -> Cadet -> Le Peletier -> Chaussée d'Antin – La Fayette -> Opéra -> Madeleine -> Concorde -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Pasteur -> Volontaires -> Vaugirard -> Convention -> Porte de Versailles -> Corentin Celton
+Lignes utilisé : ['5 Église de Pantin - Jaurès', '2 Stalingrad - Stalingrad', '5 Gare du Nord - Gare du Nord', "4 Gare de l'Est - Gare de l'Est", '7 Poissonnière - Opéra', '8 Madeleine - Invalides', '13 Varenne - Montparnasse – Bienvenüe', '6 Pasteur - Pasteur', '12 Volontaires - Corentin Celton'] 
+Nombre d'itérations : 546
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 28 stations
+temps de voyage : 36 minutes
+
+Départ : Bobigny – Pantin – Raymond Queneau
+Arrivée : Corentin Celton
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> La Chapelle -> Barbès - Rochechouart -> Anvers -> Pigalle -> Saint-Georges -> Notre-Dame-de-Lorette -> Trinité – d'Estienne d'Orves -> Saint-Lazare -> Madeleine -> Concorde -> Assemblée Nationale -> Solférino -> Rue du Bac -> Sèvres – Babylone -> Rennes -> Notre-Dame-des-Champs -> Montparnasse – Bienvenüe -> Pasteur -> Volontaires -> Vaugirard -> Convention -> Porte de Versailles -> Corentin Celton
+Lignes utilisé : ['5 Église de Pantin - Jaurès', '2 Stalingrad - Pigalle', '12 Saint-Georges - Madeleine', '8 Concorde - Concorde', '12 Assemblée Nationale - Montparnasse – Bienvenüe', '6 Pasteur - Pasteur', '12 Volontaires - Corentin Celton'] 
+Nombre d'itérations : 50
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 376 bytes
+Longueur du chemin : 31 stations
+temps de voyage : 37 minutes
+
+Départ : Bobigny – Pantin – Raymond Queneau
+Arrivée : Corentin Celton
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> La Chapelle -> Barbès - Rochechouart -> Anvers -> Pigalle -> Saint-Georges -> Notre-Dame-de-Lorette -> Trinité – d'Estienne d'Orves -> Saint-Lazare -> Madeleine -> Concorde -> Assemblée Nationale -> Solférino -> Rue du Bac -> Sèvres – Babylone -> Rennes -> Notre-Dame-des-Champs -> Montparnasse – Bienvenüe -> Pasteur -> Volontaires -> Vaugirard -> Convention -> Porte de Versailles -> Corentin Celton
+Lignes utilisé : ['5 Église de Pantin - Jaurès', '2 Stalingrad - Pigalle', '12 Saint-Georges - Madeleine', '8 Concorde - Concorde', '12 Assemblée Nationale - Montparnasse – Bienvenüe', '6 Pasteur - Pasteur', '12 Volontaires - Corentin Celton'] 
+Nombre d'itérations : 31
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 31 stations
+temps de voyage : 37 minutes
+
+Départ : Bobigny – Pantin – Raymond Queneau
+Arrivée : Corentin Celton
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> Gare du Nord -> Barbès – Rochechouart -> Château Rouge -> Marcadet – Poissonniers -> Jules Joffrin -> Lamarck – Caulaincourt -> Abbesses -> Pigalle -> Saint-Georges -> Notre-Dame-de-Lorette -> Trinité – d'Estienne d'Orves -> Saint-Lazare -> Madeleine -> Concorde -> Assemblée Nationale -> Solférino -> Rue du Bac -> Sèvres – Babylone -> Rennes -> Notre-Dame-des-Champs -> Montparnasse – Bienvenüe -> Falguière -> Pasteur -> Volontaires -> Vaugirard -> Convention -> Porte de Versailles -> Corentin Celton
+Lignes utilisé : ['5 Église de Pantin - Gare du Nord', '4 Barbès – Rochechouart - Marcadet – Poissonniers', '12 Jules Joffrin - Corentin Celton'] 
+Nombre d'itérations : 53
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 376 bytes
+Longueur du chemin : 36 stations
+temps de voyage : 38 minutes
+
+Départ : Bobigny – Pantin – Raymond Queneau
+Arrivée : Corentin Celton
+Algorithme : Random Search
+Chemin trouvé par Random Search :
+Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> Gare du Nord -> Gare de l'Est -> Jacques Bonsergent -> République -> Arts et Métiers -> Rambuteau -> Hôtel de Ville -> Châtelet -> Pyramides -> Madeleine -> Concorde -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Pasteur -> Volontaires -> Vaugirard -> Convention -> Porte de Versailles -> Corentin Celton
+Lignes utilisé : ['5 Église de Pantin - Gare du Nord', "4 Gare de l'Est - Gare de l'Est", '5 Jacques Bonsergent - République', '11 Arts et Métiers - Hôtel de Ville', '1 Châtelet - Châtelet', '14 Pyramides - Madeleine', '8 Concorde - Invalides', '13 Varenne - Montparnasse – Bienvenüe', '6 Pasteur - Pasteur', '12 Volontaires - Corentin Celton'] 
+Nombre d'itérations : 113164
+Temps d'exécution : 8.50 secondes
+Utilisation de la mémoire : 800984 bytes
+Longueur du chemin : 30 stations
+temps de voyage : 39 minutes
+================================
+25-May 15:58:
+
+Départ : Bobigny – Pantin – Raymond Queneau
+Arrivée : Corentin Celton
+Algorithme : BFS
+Chemin trouvé par BFS :
+Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> Gare du Nord -> Gare de l'Est -> Poissonnière -> Cadet -> Le Peletier -> Chaussée d'Antin – La Fayette -> Opéra -> Madeleine -> Concorde -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Pasteur -> Volontaires -> Vaugirard -> Convention -> Porte de Versailles -> Corentin Celton
+Lignes utilisé : ['5 Église de Pantin - Jaurès', '2 Stalingrad - Stalingrad', '5 Gare du Nord - Gare du Nord', "4 Gare de l'Est - Gare de l'Est", '7 Poissonnière - Opéra', '8 Madeleine - Invalides', '13 Varenne - Montparnasse – Bienvenüe', '6 Pasteur - Pasteur', '12 Volontaires - Corentin Celton'] 
+Nombre d'itérations : 546
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 28 stations
+temps de voyage : 36 minutes
+
+Départ : Bobigny – Pantin – Raymond Queneau
+Arrivée : Corentin Celton
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> La Chapelle -> Barbès - Rochechouart -> Anvers -> Pigalle -> Saint-Georges -> Notre-Dame-de-Lorette -> Trinité – d'Estienne d'Orves -> Saint-Lazare -> Madeleine -> Concorde -> Assemblée Nationale -> Solférino -> Rue du Bac -> Sèvres – Babylone -> Rennes -> Notre-Dame-des-Champs -> Montparnasse – Bienvenüe -> Pasteur -> Volontaires -> Vaugirard -> Convention -> Porte de Versailles -> Corentin Celton
+Lignes utilisé : ['5 Église de Pantin - Jaurès', '2 Stalingrad - Pigalle', '12 Saint-Georges - Madeleine', '8 Concorde - Concorde', '12 Assemblée Nationale - Montparnasse – Bienvenüe', '6 Pasteur - Pasteur', '12 Volontaires - Corentin Celton'] 
+Nombre d'itérations : 50
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 376 bytes
+Longueur du chemin : 31 stations
+temps de voyage : 37 minutes
+
+Départ : Bobigny – Pantin – Raymond Queneau
+Arrivée : Corentin Celton
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> La Chapelle -> Barbès - Rochechouart -> Anvers -> Pigalle -> Saint-Georges -> Notre-Dame-de-Lorette -> Trinité – d'Estienne d'Orves -> Saint-Lazare -> Madeleine -> Concorde -> Assemblée Nationale -> Solférino -> Rue du Bac -> Sèvres – Babylone -> Rennes -> Notre-Dame-des-Champs -> Montparnasse – Bienvenüe -> Pasteur -> Volontaires -> Vaugirard -> Convention -> Porte de Versailles -> Corentin Celton
+Lignes utilisé : ['5 Église de Pantin - Jaurès', '2 Stalingrad - Pigalle', '12 Saint-Georges - Madeleine', '8 Concorde - Concorde', '12 Assemblée Nationale - Montparnasse – Bienvenüe', '6 Pasteur - Pasteur', '12 Volontaires - Corentin Celton'] 
+Nombre d'itérations : 31
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 31 stations
+temps de voyage : 37 minutes
+
+Départ : Bobigny – Pantin – Raymond Queneau
+Arrivée : Corentin Celton
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> Gare du Nord -> Barbès – Rochechouart -> Château Rouge -> Marcadet – Poissonniers -> Jules Joffrin -> Lamarck – Caulaincourt -> Abbesses -> Pigalle -> Saint-Georges -> Notre-Dame-de-Lorette -> Trinité – d'Estienne d'Orves -> Saint-Lazare -> Madeleine -> Concorde -> Assemblée Nationale -> Solférino -> Rue du Bac -> Sèvres – Babylone -> Rennes -> Notre-Dame-des-Champs -> Montparnasse – Bienvenüe -> Falguière -> Pasteur -> Volontaires -> Vaugirard -> Convention -> Porte de Versailles -> Corentin Celton
+Lignes utilisé : ['5 Église de Pantin - Gare du Nord', '4 Barbès – Rochechouart - Marcadet – Poissonniers', '12 Jules Joffrin - Corentin Celton'] 
+Nombre d'itérations : 53
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 376 bytes
+Longueur du chemin : 36 stations
+temps de voyage : 38 minutes
+
+Départ : Bobigny – Pantin – Raymond Queneau
+Arrivée : Corentin Celton
+Algorithme : Random Search (5 exécutions)
+Exécution 1:
+Chemin trouvé par Random Search :
+Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> Louis Blanc -> Château-Landon -> Gare de l'Est -> Château d'Eau -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Opéra -> Madeleine -> Concorde -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Falguière -> Pasteur -> Volontaires -> Vaugirard -> Convention -> Porte de Versailles -> Corentin Celton
+Lignes utilisé : ['5 Église de Pantin - Jaurès', '2 Stalingrad - Stalingrad', "7 Louis Blanc - Gare de l'Est", "4 Château d'Eau - Strasbourg – Saint-Denis", '8 Bonne Nouvelle - Invalides', '13 Varenne - Montparnasse – Bienvenüe', '12 Falguière - Corentin Celton'] 
+Nombre d'itérations : 79735
+Temps d'exécution : 5.21 secondes
+Utilisation de la mémoire : 562488 bytes
+Longueur du chemin : 31 stations
+temps de voyage : 37 minutes
+Exécution 2:
+Chemin trouvé par Random Search :
+Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> Gare du Nord -> Gare de l'Est -> Château d'Eau -> Strasbourg – Saint-Denis -> République -> Oberkampf -> Richard-Lenoir -> Bréguet – Sabin -> Bastille -> Gare de Lyon -> Châtelet -> Cité -> Saint-Michel -> Odéon -> Saint-Germain-des-Prés -> Saint-Sulpice -> Saint-Placide -> Montparnasse – Bienvenüe -> Falguière -> Pasteur -> Volontaires -> Vaugirard -> Convention -> Porte de Versailles -> Corentin Celton
+Lignes utilisé : ['5 Église de Pantin - Gare du Nord', "4 Gare de l'Est - Strasbourg – Saint-Denis", '8 République - République', '5 Oberkampf - Bastille', '1 Gare de Lyon - Gare de Lyon', '14 Châtelet - Châtelet', '4 Cité - Montparnasse – Bienvenüe', '12 Falguière - Corentin Celton'] 
+Nombre d'itérations : 40433
+Temps d'exécution : 2.30 secondes
+Utilisation de la mémoire : 312024 bytes
+Longueur du chemin : 33 stations
+temps de voyage : 40 minutes
+Exécution 3:
+Chemin trouvé par Random Search :
+Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> Gare du Nord -> Gare de l'Est -> Château d'Eau -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Opéra -> Madeleine -> Concorde -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Cambronne -> Sèvres – Lecourbe -> Pasteur -> Volontaires -> Vaugirard -> Convention -> Porte de Versailles -> Corentin Celton
+Lignes utilisé : ['5 Église de Pantin - Gare du Nord', "4 Gare de l'Est - Strasbourg – Saint-Denis", '9 Bonne Nouvelle - Grands Boulevards', '8 Richelieu – Drouot - La Motte-Picquet – Grenelle', '6 Cambronne - Pasteur', '12 Volontaires - Corentin Celton'] 
+Nombre d'itérations : 21959
+Temps d'exécution : 1.16 secondes
+Utilisation de la mémoire : 173016 bytes
+Longueur du chemin : 30 stations
+temps de voyage : 35 minutes
+Exécution 4:
+Chemin trouvé par Random Search :
+Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Colonel Fabien -> Belleville -> Goncourt -> République -> Strasbourg – Saint-Denis -> Réaumur – Sébastopol -> Sentier -> Bourse -> Quatre Septembre -> Opéra -> Madeleine -> Concorde -> Assemblée Nationale -> Solférino -> Rue du Bac -> Sèvres – Babylone -> Vaneau -> Duroc -> Montparnasse – Bienvenüe -> Pasteur -> Volontaires -> Vaugirard -> Convention -> Porte de Versailles -> Corentin Celton
+Lignes utilisé : ['5 Église de Pantin - Jaurès', '2 Colonel Fabien - Belleville', '11 Goncourt - République', '9 Strasbourg – Saint-Denis - Strasbourg – Saint-Denis', '4 Réaumur – Sébastopol - Réaumur – Sébastopol', '3 Sentier - Opéra', '8 Madeleine - Concorde', '12 Assemblée Nationale - Sèvres – Babylone', '10 Vaneau - Duroc', '13 Montparnasse – Bienvenüe - Montparnasse – Bienvenüe', '6 Pasteur - Pasteur', '12 Volontaires - Corentin Celton'] 
+Nombre d'itérations : 45874
+Temps d'exécution : 2.66 secondes
+Utilisation de la mémoire : 312024 bytes
+Longueur du chemin : 32 stations
+temps de voyage : 43 minutes
+Exécution 5:
+Chemin trouvé par Random Search :
+Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Colonel Fabien -> Belleville -> Goncourt -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Opéra -> Madeleine -> Concorde -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Pasteur -> Volontaires -> Vaugirard -> Convention -> Porte de Versailles -> Corentin Celton
+Lignes utilisé : ['5 Église de Pantin - Jaurès', '2 Colonel Fabien - Belleville', '11 Goncourt - République', '9 Strasbourg – Saint-Denis - Strasbourg – Saint-Denis', '8 Bonne Nouvelle - Bonne Nouvelle', '9 Grands Boulevards - Richelieu – Drouot', '8 Opéra - Invalides', '13 Varenne - Montparnasse – Bienvenüe', '6 Pasteur - Pasteur', '12 Volontaires - Corentin Celton'] 
+Nombre d'itérations : 50570
+Temps d'exécution : 3.04 secondes
+Utilisation de la mémoire : 394968 bytes
+Longueur du chemin : 29 stations
+temps de voyage : 38 minutes
+Moyennes sur 5 exécutions de Random Search :
+Temps d'exécution moyen : 2.88 secondes
+Utilisation de la mémoire moyenne : 350904 bytes
+================================
+25-May 16:00:
+
+Départ : Créteil – Université
+Arrivée : Abbesses
+Algorithme : BFS
+Chemin trouvé par BFS :
+Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Trinité – d'Estienne d'Orves -> Notre-Dame-de-Lorette -> Saint-Georges -> Pigalle -> Abbesses
+Lignes utilisé : ["8 Créteil – L'Échat - Daumesnil", '6 Dugommier - Bercy', '14 Gare de Lyon - Madeleine', '12 Saint-Lazare - Abbesses'] 
+Nombre d'itérations : 407
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 1152 bytes
+Longueur du chemin : 23 stations
+temps de voyage : 26 minutes
+
+Départ : Créteil – Université
+Arrivée : Abbesses
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Trinité – d'Estienne d'Orves -> Notre-Dame-de-Lorette -> Saint-Georges -> Pigalle -> Abbesses
+Lignes utilisé : ["8 Créteil – L'Échat - Daumesnil", '6 Dugommier - Bercy', '14 Gare de Lyon - Madeleine', '12 Saint-Lazare - Abbesses'] 
+Nombre d'itérations : 57
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 376 bytes
+Longueur du chemin : 23 stations
+temps de voyage : 26 minutes
+
+Départ : Créteil – Université
+Arrivée : Abbesses
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Quai de la Gare -> Chevaleret -> Nationale -> Place d'Italie -> Campo-Formio -> Saint-Marcel -> Gare d'Austerlitz -> Quai de la Rapée -> Bastille -> Saint-Paul -> Hôtel de Ville -> Châtelet -> Louvre - Rivoli -> Palais Royal - Musée du Louvre -> Tuileries -> Concorde -> Madeleine -> Saint-Lazare -> Trinité – d'Estienne d'Orves -> Notre-Dame-de-Lorette -> Saint-Georges -> Pigalle -> Abbesses
+Lignes utilisé : ["8 Créteil – L'Échat - Daumesnil", "6 Dugommier - Place d'Italie", '5 Campo-Formio - Bastille', '1 Saint-Paul - Concorde', '8 Madeleine - Madeleine', '12 Saint-Lazare - Abbesses'] 
+Nombre d'itérations : 36
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 36 stations
+temps de voyage : 41 minutes
+
+Départ : Créteil – Université
+Arrivée : Abbesses
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Trinité – d'Estienne d'Orves -> Notre-Dame-de-Lorette -> Saint-Georges -> Pigalle -> Abbesses
+Lignes utilisé : ["8 Créteil – L'Échat - Daumesnil", '6 Dugommier - Bercy', '14 Gare de Lyon - Saint-Lazare', "12 Trinité – d'Estienne d'Orves - Abbesses"] 
+Nombre d'itérations : 52
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 312 bytes
+Longueur du chemin : 23 stations
+temps de voyage : 26 minutes
+
+Départ : Créteil – Université
+Arrivée : Abbesses
+Algorithme : Random Search (5 exécutions)
+Exécution 1:
+Chemin trouvé par Random Search :
+Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Louvre - Rivoli -> Palais Royal - Musée du Louvre -> Tuileries -> Concorde -> Madeleine -> Saint-Lazare -> Trinité – d'Estienne d'Orves -> Notre-Dame-de-Lorette -> Saint-Georges -> Pigalle -> Abbesses
+Lignes utilisé : ["8 Créteil – L'Échat - Daumesnil", '6 Dugommier - Bercy', '14 Gare de Lyon - Châtelet', '1 Louvre - Rivoli - Concorde', '8 Madeleine - Madeleine', '14 Saint-Lazare - Saint-Lazare', "12 Trinité – d'Estienne d'Orves - Abbesses"] 
+Nombre d'itérations : 940
+Temps d'exécution : 0.06 secondes
+Utilisation de la mémoire : 7832 bytes
+Longueur du chemin : 26 stations
+temps de voyage : 32 minutes
+Exécution 2:
+Chemin trouvé par Random Search :
+Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Bel-Air -> Picpus -> Nation -> Reuilly - Diderot -> Gare de Lyon -> Bastille -> Saint-Paul -> Hôtel de Ville -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Trinité – d'Estienne d'Orves -> Notre-Dame-de-Lorette -> Saint-Georges -> Pigalle -> Abbesses
+Lignes utilisé : ["8 Créteil – L'Échat - Daumesnil", '6 Bel-Air - Nation', '1 Reuilly - Diderot - Châtelet', '14 Pyramides - Madeleine', '12 Saint-Lazare - Abbesses'] 
+Nombre d'itérations : 2556
+Temps d'exécution : 0.15 secondes
+Utilisation de la mémoire : 23128 bytes
+Longueur du chemin : 28 stations
+temps de voyage : 32 minutes
+Exécution 3:
+Chemin trouvé par Random Search :
+Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pont Neuf -> Palais Royal – Musée du Louvre -> Pyramides -> Madeleine -> Saint-Lazare -> Trinité – d'Estienne d'Orves -> Notre-Dame-de-Lorette -> Saint-Georges -> Pigalle -> Abbesses
+Lignes utilisé : ["8 Créteil – L'Échat - Daumesnil", '6 Dugommier - Bercy', '14 Gare de Lyon - Châtelet', '7 Pont Neuf - Pyramides', '14 Madeleine - Saint-Lazare', "12 Trinité – d'Estienne d'Orves - Abbesses"] 
+Nombre d'itérations : 1690
+Temps d'exécution : 0.09 secondes
+Utilisation de la mémoire : 14360 bytes
+Longueur du chemin : 25 stations
+temps de voyage : 30 minutes
+Exécution 4:
+Chemin trouvé par Random Search :
+Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Opéra -> Havre – Caumartin -> Saint-Lazare -> Trinité – d'Estienne d'Orves -> Notre-Dame-de-Lorette -> Saint-Georges -> Pigalle -> Abbesses
+Lignes utilisé : ["8 Créteil – L'Échat - Daumesnil", '6 Dugommier - Bercy', '14 Gare de Lyon - Pyramides', '7 Opéra - Opéra', '3 Havre – Caumartin - Saint-Lazare', "12 Trinité – d'Estienne d'Orves - Abbesses"] 
+Nombre d'itérations : 1219
+Temps d'exécution : 0.07 secondes
+Utilisation de la mémoire : 10008 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 29 minutes
+Exécution 5:
+Chemin trouvé par Random Search :
+Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Montgallet -> Reuilly – Diderot -> Faidherbe – Chaligny -> Ledru-Rollin -> Bastille -> Saint-Paul -> Hôtel de Ville -> Rambuteau -> Arts et Métiers -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Opéra -> Chaussée d'Antin – La Fayette -> Havre – Caumartin -> Saint-Lazare -> Liège -> Place de Clichy -> Blanche -> Pigalle -> Abbesses
+Lignes utilisé : ["8 Créteil – L'Échat - Bastille", '1 Saint-Paul - Hôtel de Ville', '11 Rambuteau - République', '9 Strasbourg – Saint-Denis - Grands Boulevards', '8 Richelieu – Drouot - Opéra', "7 Chaussée d'Antin – La Fayette - Chaussée d'Antin – La Fayette", '9 Havre – Caumartin - Havre – Caumartin', '3 Saint-Lazare - Saint-Lazare', '13 Liège - Place de Clichy', '2 Blanche - Pigalle', '12 Abbesses - Abbesses'] 
+Nombre d'itérations : 2472
+Temps d'exécution : 0.13 secondes
+Utilisation de la mémoire : 23128 bytes
+Longueur du chemin : 34 stations
+temps de voyage : 44 minutes
+Moyennes sur 5 exécutions de Random Search :
+Temps d'exécution moyen : 0.10 secondes
+Utilisation de la mémoire moyenne : 15691.2 bytes
+================================
+27-May 16:14:
+
+Départ : Mairie d'Issy
+Arrivée : Châtelet
+Algorithme : BFS
+Chemin trouvé par BFS :
+Mairie d'Issy -> Corentin Celton -> Porte de Versailles -> Convention -> Vaugirard -> Volontaires -> Pasteur -> Montparnasse – Bienvenüe -> Saint-Placide -> Saint-Sulpice -> Saint-Germain-des-Prés -> Odéon -> Saint-Michel -> Cité -> Châtelet
+Lignes utilisé : ['12 Corentin Celton - Pasteur', '6 Montparnasse – Bienvenüe - Montparnasse – Bienvenüe', '4 Saint-Placide - Châtelet'] 
+Nombre d'itérations : 109
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 1152 bytes
+Longueur du chemin : 15 stations
+temps de voyage : 17 minutes
+
+Départ : Mairie d'Issy
+Arrivée : Châtelet
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Mairie d'Issy -> Corentin Celton -> Porte de Versailles -> Convention -> Vaugirard -> Volontaires -> Pasteur -> Montparnasse – Bienvenüe -> Saint-Placide -> Saint-Sulpice -> Saint-Germain-des-Prés -> Odéon -> Saint-Michel -> Cité -> Châtelet
+Lignes utilisé : ['12 Corentin Celton - Pasteur', '6 Montparnasse – Bienvenüe - Montparnasse – Bienvenüe', '4 Saint-Placide - Châtelet'] 
+Nombre d'itérations : 15
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 184 bytes
+Longueur du chemin : 15 stations
+temps de voyage : 17 minutes
+
+Départ : Mairie d'Issy
+Arrivée : Châtelet
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Mairie d'Issy -> Corentin Celton -> Porte de Versailles -> Convention -> Vaugirard -> Volontaires -> Pasteur -> Montparnasse – Bienvenüe -> Saint-Placide -> Saint-Sulpice -> Saint-Germain-des-Prés -> Odéon -> Saint-Michel -> Cité -> Châtelet
+Lignes utilisé : ['12 Corentin Celton - Pasteur', '6 Montparnasse – Bienvenüe - Montparnasse – Bienvenüe', '4 Saint-Placide - Châtelet'] 
+Nombre d'itérations : 15
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 15 stations
+temps de voyage : 17 minutes
+
+Départ : Mairie d'Issy
+Arrivée : Châtelet
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Mairie d'Issy -> Corentin Celton -> Porte de Versailles -> Convention -> Vaugirard -> Volontaires -> Pasteur -> Montparnasse – Bienvenüe -> Saint-Placide -> Saint-Sulpice -> Saint-Germain-des-Prés -> Odéon -> Saint-Michel -> Cité -> Châtelet
+Lignes utilisé : ['12 Corentin Celton - Pasteur', '6 Montparnasse – Bienvenüe - Montparnasse – Bienvenüe', '4 Saint-Placide - Châtelet'] 
+Nombre d'itérations : 15
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 184 bytes
+Longueur du chemin : 15 stations
+temps de voyage : 17 minutes
+
+Départ : Mairie d'Issy
+Arrivée : Châtelet
+Algorithme : Random Search (5 exécutions)
+Exécution 1:
+Chemin trouvé par Random Search :
+Mairie d'Issy -> Corentin Celton -> Porte de Versailles -> Convention -> Vaugirard -> Volontaires -> Pasteur -> Falguière -> Montparnasse – Bienvenüe -> Saint-Placide -> Saint-Sulpice -> Saint-Germain-des-Prés -> Odéon -> Saint-Michel -> Cité -> Châtelet
+Lignes utilisé : ['12 Corentin Celton - Montparnasse – Bienvenüe', '4 Saint-Placide - Châtelet'] 
+Nombre d'itérations : 111
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 568 bytes
+Longueur du chemin : 16 stations
+temps de voyage : 17 minutes
+Exécution 2:
+Chemin trouvé par Random Search :
+Mairie d'Issy -> Corentin Celton -> Porte de Versailles -> Convention -> Vaugirard -> Volontaires -> Pasteur -> Montparnasse – Bienvenüe -> Duroc -> Saint-François-Xavier -> Varenne -> Invalides -> Concorde -> Madeleine -> Opéra -> Pyramides -> Châtelet
+Lignes utilisé : ['12 Corentin Celton - Pasteur', '6 Montparnasse – Bienvenüe - Montparnasse – Bienvenüe', '13 Duroc - Invalides', '8 Concorde - Opéra', '7 Pyramides - Pyramides', '14 Châtelet - Châtelet'] 
+Nombre d'itérations : 176
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 1240 bytes
+Longueur du chemin : 17 stations
+temps de voyage : 22 minutes
+Exécution 3:
+Chemin trouvé par Random Search :
+Mairie d'Issy -> Corentin Celton -> Porte de Versailles -> Convention -> Vaugirard -> Volontaires -> Pasteur -> Montparnasse – Bienvenüe -> Notre-Dame-des-Champs -> Rennes -> Sèvres – Babylone -> Mabillon -> Odéon -> Saint-Michel -> Cité -> Châtelet
+Lignes utilisé : ['12 Corentin Celton - Pasteur', '6 Montparnasse – Bienvenüe - Montparnasse – Bienvenüe', '12 Notre-Dame-des-Champs - Sèvres – Babylone', '10 Mabillon - Odéon', '4 Saint-Michel - Châtelet'] 
+Nombre d'itérations : 143
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 792 bytes
+Longueur du chemin : 16 stations
+temps de voyage : 20 minutes
+Exécution 4:
+Chemin trouvé par Random Search :
+Mairie d'Issy -> Corentin Celton -> Porte de Versailles -> Convention -> Vaugirard -> Volontaires -> Pasteur -> Montparnasse – Bienvenüe -> Duroc -> Vaneau -> Sèvres – Babylone -> Mabillon -> Odéon -> Saint-Michel -> Cité -> Châtelet
+Lignes utilisé : ['12 Corentin Celton - Pasteur', '6 Montparnasse – Bienvenüe - Montparnasse – Bienvenüe', '13 Duroc - Duroc', '10 Vaneau - Odéon', '4 Saint-Michel - Châtelet'] 
+Nombre d'itérations : 241
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 1432 bytes
+Longueur du chemin : 16 stations
+temps de voyage : 20 minutes
+Exécution 5:
+Chemin trouvé par Random Search :
+Mairie d'Issy -> Corentin Celton -> Porte de Versailles -> Convention -> Vaugirard -> Volontaires -> Pasteur -> Montparnasse – Bienvenüe -> Duroc -> Saint-François-Xavier -> Varenne -> Invalides -> Concorde -> Madeleine -> Pyramides -> Châtelet
+Lignes utilisé : ['12 Corentin Celton - Pasteur', '6 Montparnasse – Bienvenüe - Montparnasse – Bienvenüe', '13 Duroc - Invalides', '8 Concorde - Concorde', '12 Madeleine - Madeleine', '14 Pyramides - Châtelet'] 
+Nombre d'itérations : 129
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 696 bytes
+Longueur du chemin : 16 stations
+temps de voyage : 21 minutes
+Moyennes sur 5 exécutions de Random Search :
+Temps d'exécution moyen : 0.01 secondes
+Utilisation de la mémoire moyenne : 945.6 bytes
+================================
+27-May 16:16:
+
+Départ : Bobigny – Pablo Picasso
+Arrivée : Pont de Sèvres
+Algorithme : BFS
+Chemin trouvé par BFS :
+Bobigny – Pablo Picasso -> Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> Gare du Nord -> Gare de l'Est -> Poissonnière -> Cadet -> Le Peletier -> Chaussée d'Antin – La Fayette -> Opéra -> Madeleine -> Concorde -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Avenue Émile Zola -> Charles Michels -> Javel – André Citroën -> Église d'Auteuil -> Michel-Ange – Auteuil -> Michel-Ange – Molitor -> Exelmans -> Porte de Saint-Cloud -> Marcel Sembat -> Billancourt -> Pont de Sèvres
+Lignes utilisé : ['5 Bobigny – Pantin – Raymond Queneau - Jaurès', '2 Stalingrad - Stalingrad', '5 Gare du Nord - Gare du Nord', "4 Gare de l'Est - Gare de l'Est", '7 Poissonnière - Opéra', '8 Madeleine - La Motte-Picquet – Grenelle', '10 Avenue Émile Zola - Michel-Ange – Auteuil', '9 Michel-Ange – Molitor - Pont de Sèvres'] 
+Nombre d'itérations : 561
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 33 stations
+temps de voyage : 40 minutes
+
+Départ : Bobigny – Pablo Picasso
+Arrivée : Pont de Sèvres
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Bobigny – Pablo Picasso -> Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Colonel Fabien -> Belleville -> Goncourt -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Chaussée d'Antin – La Fayette -> Havre – Caumartin -> Saint-Augustin -> Miromesnil -> Saint-Philippe du Roule -> Franklin D. Roosevelt -> Alma – Marceau -> Iéna -> Trocadéro -> Rue de la Pompe -> La Muette -> Ranelagh -> Jasmin -> Michel-Ange – Auteuil -> Michel-Ange – Molitor -> Exelmans -> Porte de Saint-Cloud -> Marcel Sembat -> Billancourt -> Pont de Sèvres
+Lignes utilisé : ['5 Bobigny – Pantin – Raymond Queneau - Jaurès', '2 Colonel Fabien - Belleville', '11 Goncourt - République', '8 Strasbourg – Saint-Denis - Richelieu – Drouot', "9 Chaussée d'Antin – La Fayette - Pont de Sèvres"] 
+Nombre d'itérations : 53
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 472 bytes
+Longueur du chemin : 36 stations
+temps de voyage : 40 minutes
+
+Départ : Bobigny – Pablo Picasso
+Arrivée : Pont de Sèvres
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Bobigny – Pablo Picasso -> Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> La Chapelle -> Barbès - Rochechouart -> Anvers -> Pigalle -> Blanche -> Place de Clichy -> Rome -> Villiers -> Monceau -> Courcelles -> Ternes -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Alma – Marceau -> Iéna -> Trocadéro -> Rue de la Pompe -> La Muette -> Ranelagh -> Jasmin -> Michel-Ange – Auteuil -> Michel-Ange – Molitor -> Exelmans -> Porte de Saint-Cloud -> Marcel Sembat -> Billancourt -> Pont de Sèvres
+Lignes utilisé : ['5 Bobigny – Pantin – Raymond Queneau - Jaurès', '2 Stalingrad - Charles de Gaulle - Étoile', '1 George V - Franklin D. Roosevelt', '9 Alma – Marceau - Pont de Sèvres'] 
+Nombre d'itérations : 37
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 37 stations
+temps de voyage : 40 minutes
+
+Départ : Bobigny – Pablo Picasso
+Arrivée : Pont de Sèvres
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Bobigny – Pablo Picasso -> Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> Gare du Nord -> Gare de l'Est -> Jacques Bonsergent -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Chaussée d'Antin – La Fayette -> Havre – Caumartin -> Saint-Augustin -> Miromesnil -> Saint-Philippe du Roule -> Franklin D. Roosevelt -> Alma – Marceau -> Iéna -> Trocadéro -> Rue de la Pompe -> La Muette -> Ranelagh -> Jasmin -> Michel-Ange – Auteuil -> Michel-Ange – Molitor -> Exelmans -> Porte de Saint-Cloud -> Marcel Sembat -> Billancourt -> Pont de Sèvres
+Lignes utilisé : ['5 Bobigny – Pantin – Raymond Queneau - République', '8 Strasbourg – Saint-Denis - Richelieu – Drouot', "9 Chaussée d'Antin – La Fayette - Pont de Sèvres"] 
+Nombre d'itérations : 48
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 376 bytes
+Longueur du chemin : 37 stations
+temps de voyage : 39 minutes
+
+Départ : Bobigny – Pablo Picasso
+Arrivée : Pont de Sèvres
+Algorithme : Random Search (5 exécutions)
+Exécution 1:
+Chemin trouvé par Random Search :
+Bobigny – Pablo Picasso -> Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Colonel Fabien -> Belleville -> Goncourt -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Opéra -> Havre – Caumartin -> Saint-Lazare -> Madeleine -> Concorde -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Avenue Émile Zola -> Charles Michels -> Javel – André Citroën -> Église d'Auteuil -> Michel-Ange – Auteuil -> Michel-Ange – Molitor -> Exelmans -> Porte de Saint-Cloud -> Marcel Sembat -> Billancourt -> Pont de Sèvres
+Lignes utilisé : ['5 Bobigny – Pantin – Raymond Queneau - Jaurès', '2 Colonel Fabien - Belleville', '11 Goncourt - République', '8 Strasbourg – Saint-Denis - Strasbourg – Saint-Denis', '9 Bonne Nouvelle - Grands Boulevards', '8 Richelieu – Drouot - Opéra', '3 Havre – Caumartin - Saint-Lazare', '14 Madeleine - Madeleine', '12 Concorde - Concorde', '8 Invalides - La Motte-Picquet – Grenelle', '10 Avenue Émile Zola - Michel-Ange – Auteuil', '9 Michel-Ange – Molitor - Pont de Sèvres'] 
+Nombre d'itérations : 62479
+Temps d'exécution : 3.95 secondes
+Utilisation de la mémoire : 394968 bytes
+Longueur du chemin : 36 stations
+temps de voyage : 47 minutes
+Exécution 2:
+Chemin trouvé par Random Search :
+Bobigny – Pablo Picasso -> Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> Gare du Nord -> Gare de l'Est -> Château d'Eau -> Strasbourg – Saint-Denis -> République -> Arts et Métiers -> Réaumur – Sébastopol -> Sentier -> Bourse -> Quatre Septembre -> Opéra -> Chaussée d'Antin – La Fayette -> Havre – Caumartin -> Saint-Augustin -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Avenue Émile Zola -> Charles Michels -> Javel – André Citroën -> Église d'Auteuil -> Michel-Ange – Auteuil -> Michel-Ange – Molitor -> Exelmans -> Porte de Saint-Cloud -> Marcel Sembat -> Billancourt -> Pont de Sèvres
+Lignes utilisé : ['5 Bobigny – Pantin – Raymond Queneau - Gare du Nord', "4 Gare de l'Est - Strasbourg – Saint-Denis", '9 République - République', '11 Arts et Métiers - Arts et Métiers', '3 Réaumur – Sébastopol - Opéra', "7 Chaussée d'Antin – La Fayette - Chaussée d'Antin – La Fayette", '9 Havre – Caumartin - Miromesnil', '13 Champs-Élysées – Clémenceau - Invalides', '8 La Tour-Maubourg - La Motte-Picquet – Grenelle', '10 Avenue Émile Zola - Michel-Ange – Auteuil', '9 Michel-Ange – Molitor - Pont de Sèvres'] 
+Nombre d'itérations : 547598
+Temps d'exécution : 76.84 secondes
+Utilisation de la mémoire : 2926776 bytes
+Longueur du chemin : 40 stations
+temps de voyage : 50 minutes
+Exécution 3:
+Chemin trouvé par Random Search :
+Bobigny – Pablo Picasso -> Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> La Chapelle -> Barbès - Rochechouart -> Anvers -> Pigalle -> Saint-Georges -> Notre-Dame-de-Lorette -> Trinité – d'Estienne d'Orves -> Saint-Lazare -> Madeleine -> Concorde -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Avenue Émile Zola -> Charles Michels -> Javel – André Citroën -> Église d'Auteuil -> Michel-Ange – Auteuil -> Michel-Ange – Molitor -> Exelmans -> Porte de Saint-Cloud -> Marcel Sembat -> Billancourt -> Pont de Sèvres
+Lignes utilisé : ['5 Bobigny – Pantin – Raymond Queneau - Stalingrad', '2 La Chapelle - Pigalle', '12 Saint-Georges - Concorde', '8 Invalides - La Motte-Picquet – Grenelle', '10 Avenue Émile Zola - Michel-Ange – Auteuil', '9 Michel-Ange – Molitor - Pont de Sèvres'] 
+Nombre d'itérations : 332737
+Temps d'exécution : 37.50 secondes
+Utilisation de la mémoire : 2055512 bytes
+Longueur du chemin : 34 stations
+temps de voyage : 39 minutes
+Exécution 4:
+Chemin trouvé par Random Search :
+Bobigny – Pablo Picasso -> Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> Louis Blanc -> Château-Landon -> Gare de l'Est -> Jacques Bonsergent -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Chaussée d'Antin – La Fayette -> Opéra -> Havre – Caumartin -> Saint-Augustin -> Miromesnil -> Saint-Lazare -> Madeleine -> Concorde -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Avenue Émile Zola -> Charles Michels -> Javel – André Citroën -> Église d'Auteuil -> Michel-Ange – Auteuil -> Michel-Ange – Molitor -> Exelmans -> Porte de Saint-Cloud -> Marcel Sembat -> Billancourt -> Pont de Sèvres
+Lignes utilisé : ['5 Bobigny – Pantin – Raymond Queneau - Stalingrad', "7 Louis Blanc - Gare de l'Est", '5 Jacques Bonsergent - République', '8 Strasbourg – Saint-Denis - Strasbourg – Saint-Denis', '9 Bonne Nouvelle - Bonne Nouvelle', '8 Grands Boulevards - Richelieu – Drouot', "9 Chaussée d'Antin – La Fayette - Chaussée d'Antin – La Fayette", '7 Opéra - Opéra', '3 Havre – Caumartin - Havre – Caumartin', '9 Saint-Augustin - Miromesnil', '13 Saint-Lazare - Saint-Lazare', '14 Madeleine - Madeleine', '12 Concorde - Concorde', '8 Invalides - La Motte-Picquet – Grenelle', '10 Avenue Émile Zola - Michel-Ange – Auteuil', '9 Michel-Ange – Molitor - Pont de Sèvres'] 
+Nombre d'itérations : 331710
+Temps d'exécution : 36.52 secondes
+Utilisation de la mémoire : 2055512 bytes
+Longueur du chemin : 41 stations
+temps de voyage : 56 minutes
+Exécution 5:
+Chemin trouvé par Random Search :
+Bobigny – Pablo Picasso -> Bobigny – Pantin – Raymond Queneau -> Église de Pantin -> Hoche -> Porte de Pantin -> Ourcq -> Laumière -> Jaurès -> Stalingrad -> Gare du Nord -> Gare de l'Est -> Château d'Eau -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Opéra -> Madeleine -> Concorde -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Avenue Émile Zola -> Charles Michels -> Javel – André Citroën -> Église d'Auteuil -> Michel-Ange – Auteuil -> Michel-Ange – Molitor -> Exelmans -> Porte de Saint-Cloud -> Marcel Sembat -> Billancourt -> Pont de Sèvres
+Lignes utilisé : ['5 Bobigny – Pantin – Raymond Queneau - Jaurès', '2 Stalingrad - Stalingrad', "5 Gare du Nord - Gare de l'Est", "4 Château d'Eau - Strasbourg – Saint-Denis", '9 Bonne Nouvelle - Grands Boulevards', '8 Richelieu – Drouot - La Motte-Picquet – Grenelle', '10 Avenue Émile Zola - Michel-Ange – Auteuil', '9 Michel-Ange – Molitor - Pont de Sèvres'] 
+Nombre d'itérations : 196158
+Temps d'exécution : 17.17 secondes
+Utilisation de la mémoire : 1283160 bytes
+Longueur du chemin : 34 stations
+temps de voyage : 41 minutes
+Moyennes sur 5 exécutions de Random Search :
+Temps d'exécution moyen : 34.39 secondes
+Utilisation de la mémoire moyenne : 1743185.6 bytes
+================================
+27-May 16:22:
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : BFS
+Chemin trouvé par BFS :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes -> Asnières – Gennevilliers – Les Courtilles -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Châtillon – Montrouge'] 
+Nombre d'itérations : 398
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 19 stations
+temps de voyage : 23 minutes
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Champs-Élysées – Clémenceau - Châtillon – Montrouge'] 
+Nombre d'itérations : 30
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 184 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 26 minutes
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Concorde', '8 Invalides - Invalides', '13 Varenne - Châtillon – Montrouge'] 
+Nombre d'itérations : 23
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 23 stations
+temps de voyage : 25 minutes
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Concorde', '8 Invalides - Invalides', '13 Varenne - Châtillon – Montrouge'] 
+Nombre d'itérations : 28
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 248 bytes
+Longueur du chemin : 23 stations
+temps de voyage : 25 minutes
+
+Départ : La Défense
+Arrivée : Châtillon – Montrouge
+Algorithme : Random Search (5 exécutions)
+Exécution 1:
+Chemin trouvé par Random Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Invalides -> Champs-Élysées – Clémenceau -> Miromesnil -> Saint-Augustin -> Havre – Caumartin -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes -> Asnières – Gennevilliers – Les Courtilles -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Concorde', '8 Invalides - Invalides', '13 Champs-Élysées – Clémenceau - Miromesnil', '9 Saint-Augustin - Havre – Caumartin', '3 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Châtillon – Montrouge'] 
+Nombre d'itérations : 2516
+Temps d'exécution : 0.13 secondes
+Utilisation de la mémoire : 20536 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 30 minutes
+Exécution 2:
+Chemin trouvé par Random Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Madeleine -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes -> Asnières – Gennevilliers – Les Courtilles -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Concorde', '12 Madeleine - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Châtillon – Montrouge'] 
+Nombre d'itérations : 1199
+Temps d'exécution : 0.07 secondes
+Utilisation de la mémoire : 11288 bytes
+Longueur du chemin : 20 stations
+temps de voyage : 23 minutes
+Exécution 3:
+Chemin trouvé par Random Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Madeleine -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes -> Asnières – Gennevilliers – Les Courtilles -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Concorde', '8 Madeleine - Madeleine', '14 Saint-Lazare - Porte de Clichy', '13 Mairie de Clichy - Châtillon – Montrouge'] 
+Nombre d'itérations : 4858
+Temps d'exécution : 0.26 secondes
+Utilisation de la mémoire : 41880 bytes
+Longueur du chemin : 20 stations
+temps de voyage : 23 minutes
+Exécution 4:
+Chemin trouvé par Random Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Augustin -> Havre – Caumartin -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes -> Asnières – Gennevilliers – Les Courtilles -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Havre – Caumartin', '3 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Châtillon – Montrouge'] 
+Nombre d'itérations : 4076
+Temps d'exécution : 0.21 secondes
+Utilisation de la mémoire : 37208 bytes
+Longueur du chemin : 21 stations
+temps de voyage : 25 minutes
+Exécution 5:
+Chemin trouvé par Random Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes -> Asnières – Gennevilliers – Les Courtilles -> Châtillon – Montrouge
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Châtillon – Montrouge'] 
+Nombre d'itérations : 9259
+Temps d'exécution : 0.49 secondes
+Utilisation de la mémoire : 75672 bytes
+Longueur du chemin : 19 stations
+temps de voyage : 23 minutes
+Moyennes sur 5 exécutions de Random Search :
+Temps d'exécution moyen : 0.23 secondes
+Utilisation de la mémoire moyenne : 37316.8 bytes
+================================
+27-May 16:23:
+
+Départ : La Défense
+Arrivée : Berault
+Algorithme : BFS
+Chemin trouvé par BFS :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['1 Esplanade de La Défense - Concorde', '8 Madeleine - Madeleine', '14 Pyramides - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 430
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 1152 bytes
+Longueur du chemin : 20 stations
+temps de voyage : 23 minutes
+
+Départ : La Défense
+Arrivée : Berault
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Tuileries -> Palais Royal - Musée du Louvre -> Louvre - Rivoli -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['1 Esplanade de La Défense - Châtelet', '14 Gare de Lyon - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 21
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 248 bytes
+Longueur du chemin : 21 stations
+temps de voyage : 23 minutes
+
+Départ : La Défense
+Arrivée : Berault
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Tuileries -> Palais Royal - Musée du Louvre -> Louvre - Rivoli -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['1 Esplanade de La Défense - Châtelet', '14 Gare de Lyon - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 21
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 21 stations
+temps de voyage : 23 minutes
+
+Départ : La Défense
+Arrivée : Berault
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Tuileries -> Palais Royal - Musée du Louvre -> Louvre - Rivoli -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['1 Esplanade de La Défense - Châtelet', '14 Gare de Lyon - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 21
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 248 bytes
+Longueur du chemin : 21 stations
+temps de voyage : 23 minutes
+
+Départ : La Défense
+Arrivée : Berault
+Algorithme : Random Search (5 exécutions)
+Exécution 1:
+Chemin trouvé par Random Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Lazare -> Madeleine -> Pyramides -> Châtelet -> Les Halles -> Étienne Marcel -> Réaumur – Sébastopol -> Strasbourg – Saint-Denis -> République -> Oberkampf -> Saint-Ambroise -> Voltaire -> Charonne -> Rue des Boulets -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Saint-Lazare - Saint-Lazare', '12 Madeleine - Madeleine', '14 Pyramides - Châtelet', '4 Les Halles - Strasbourg – Saint-Denis', '9 République - République', '5 Oberkampf - Oberkampf', '9 Saint-Ambroise - Nation', '1 Porte de Vincennes - Berault'] 
+Nombre d'itérations : 1073
+Temps d'exécution : 0.07 secondes
+Utilisation de la mémoire : 10008 bytes
+Longueur du chemin : 29 stations
+temps de voyage : 38 minutes
+Exécution 2:
+Chemin trouvé par Random Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> Concorde -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Champs-Élysées – Clémenceau - Invalides', '8 Concorde - Concorde', '12 Madeleine - Madeleine', '14 Pyramides - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 2858
+Temps d'exécution : 0.16 secondes
+Utilisation de la mémoire : 23128 bytes
+Longueur du chemin : 23 stations
+temps de voyage : 29 minutes
+Exécution 3:
+Chemin trouvé par Random Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Lazare -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Miromesnil', '13 Saint-Lazare - Saint-Lazare', '12 Madeleine - Madeleine', '14 Pyramides - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 3401
+Temps d'exécution : 0.19 secondes
+Utilisation de la mémoire : 29336 bytes
+Longueur du chemin : 21 stations
+temps de voyage : 26 minutes
+Exécution 4:
+Chemin trouvé par Random Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Saint-Philippe du Roule -> Miromesnil -> Saint-Augustin -> Havre – Caumartin -> Chaussée d'Antin – La Fayette -> Richelieu – Drouot -> Grands Boulevards -> Bonne Nouvelle -> Strasbourg – Saint-Denis -> Réaumur – Sébastopol -> Étienne Marcel -> Les Halles -> Châtelet -> Hôtel de Ville -> Saint-Paul -> Bastille -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['1 Esplanade de La Défense - Franklin D. Roosevelt', '9 Saint-Philippe du Roule - Bonne Nouvelle', '8 Strasbourg – Saint-Denis - Strasbourg – Saint-Denis', '4 Réaumur – Sébastopol - Châtelet', '1 Hôtel de Ville - Berault'] 
+Nombre d'itérations : 3563
+Temps d'exécution : 0.20 secondes
+Utilisation de la mémoire : 29336 bytes
+Longueur du chemin : 31 stations
+temps de voyage : 35 minutes
+Exécution 5:
+Chemin trouvé par Random Search :
+La Défense -> Esplanade de La Défense -> Pont de Neuilly -> Les Sablons -> Porte Maillot -> Argentine -> Charles de Gaulle - Étoile -> George V -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Madeleine -> Saint-Lazare -> Havre – Caumartin -> Opéra -> Pyramides -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['1 Esplanade de La Défense - Concorde', '12 Madeleine - Saint-Lazare', '3 Havre – Caumartin - Opéra', '7 Pyramides - Pyramides', '14 Châtelet - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 3423
+Temps d'exécution : 0.19 secondes
+Utilisation de la mémoire : 29336 bytes
+Longueur du chemin : 23 stations
+temps de voyage : 28 minutes
+Moyennes sur 5 exécutions de Random Search :
+Temps d'exécution moyen : 0.16 secondes
+Utilisation de la mémoire moyenne : 24228.8 bytes
+================================
+27-May 16:25:
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : BFS
+Chemin trouvé par BFS :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Madeleine', '12 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 411
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 1152 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 29 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge -> Asnières – Gennevilliers – Les Courtilles -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Madeleine', '12 Saint-Lazare - Saint-Lazare', '13 Miromesnil - Les Agnettes'] 
+Nombre d'itérations : 95
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 472 bytes
+Longueur du chemin : 35 stations
+temps de voyage : 39 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Quai de la Gare -> Chevaleret -> Nationale -> Place d'Italie -> Campo-Formio -> Saint-Marcel -> Gare d'Austerlitz -> Quai de la Rapée -> Bastille -> Saint-Paul -> Hôtel de Ville -> Châtelet -> Louvre - Rivoli -> Palais Royal - Musée du Louvre -> Tuileries -> Concorde -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge -> Asnières – Gennevilliers – Les Courtilles -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', "6 Dugommier - Place d'Italie", '5 Campo-Formio - Bastille', '1 Saint-Paul - Concorde', '8 Invalides - Invalides', '13 Varenne - Les Agnettes'] 
+Nombre d'itérations : 44
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 44 stations
+temps de voyage : 49 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge -> Asnières – Gennevilliers – Les Courtilles -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Saint-Lazare', '13 Miromesnil - Les Agnettes'] 
+Nombre d'itérations : 81
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 472 bytes
+Longueur du chemin : 35 stations
+temps de voyage : 38 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : Random Search (5 exécutions)
+Exécution 1:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Bel-Air -> Picpus -> Nation -> Reuilly - Diderot -> Gare de Lyon -> Châtelet -> Pyramides -> Opéra -> Havre – Caumartin -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Bel-Air - Nation', '1 Reuilly - Diderot - Gare de Lyon', '14 Châtelet - Pyramides', '7 Opéra - Opéra', '3 Havre – Caumartin - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 671
+Temps d'exécution : 0.05 secondes
+Utilisation de la mémoire : 6136 bytes
+Longueur du chemin : 27 stations
+temps de voyage : 34 minutes
+Exécution 2:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Hôtel de Ville -> Rambuteau -> Arts et Métiers -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Opéra -> Pyramides -> Madeleine -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Châtelet', '1 Hôtel de Ville - Hôtel de Ville', '11 Rambuteau - République', '9 Strasbourg – Saint-Denis - Richelieu – Drouot', '8 Opéra - Opéra', '7 Pyramides - Pyramides', '14 Madeleine - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 1804
+Temps d'exécution : 0.11 secondes
+Utilisation de la mémoire : 16184 bytes
+Longueur du chemin : 33 stations
+temps de voyage : 42 minutes
+Exécution 3:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pont Neuf -> Palais Royal – Musée du Louvre -> Pyramides -> Opéra -> Madeleine -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Châtelet', '7 Pont Neuf - Opéra', '8 Madeleine - Madeleine', '14 Saint-Lazare - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 3057
+Temps d'exécution : 0.18 secondes
+Utilisation de la mémoire : 23128 bytes
+Longueur du chemin : 27 stations
+temps de voyage : 33 minutes
+Exécution 4:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Bel-Air -> Picpus -> Nation -> Reuilly - Diderot -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Bel-Air - Nation', '1 Reuilly - Diderot - Gare de Lyon', '14 Châtelet - Madeleine', '12 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 2086
+Temps d'exécution : 0.12 secondes
+Utilisation de la mémoire : 18232 bytes
+Longueur du chemin : 26 stations
+temps de voyage : 32 minutes
+Exécution 5:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Bastille -> Saint-Paul -> Hôtel de Ville -> Châtelet -> Pyramides -> Opéra -> Havre – Caumartin -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Gare de Lyon', '1 Bastille - Hôtel de Ville', '11 Châtelet - Châtelet', '14 Pyramides - Pyramides', '7 Opéra - Opéra', '3 Havre – Caumartin - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 2182
+Temps d'exécution : 0.13 secondes
+Utilisation de la mémoire : 20536 bytes
+Longueur du chemin : 28 stations
+temps de voyage : 37 minutes
+Moyennes sur 5 exécutions de Random Search :
+Temps d'exécution moyen : 0.12 secondes
+Utilisation de la mémoire moyenne : 16843.2 bytes
+================================
+30-May 17:02:
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : BFS
+Chemin trouvé par BFS :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Madeleine', '12 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 411
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 1152 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 29 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge -> Asnières – Gennevilliers – Les Courtilles -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Madeleine', '12 Saint-Lazare - Saint-Lazare', '13 Miromesnil - Les Agnettes'] 
+Nombre d'itérations : 95
+Temps d'exécution : 0.02 secondes
+Utilisation de la mémoire : 472 bytes
+Longueur du chemin : 35 stations
+temps de voyage : 39 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Quai de la Gare -> Chevaleret -> Nationale -> Place d'Italie -> Campo-Formio -> Saint-Marcel -> Gare d'Austerlitz -> Quai de la Rapée -> Bastille -> Saint-Paul -> Hôtel de Ville -> Châtelet -> Louvre - Rivoli -> Palais Royal - Musée du Louvre -> Tuileries -> Concorde -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge -> Asnières – Gennevilliers – Les Courtilles -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', "6 Dugommier - Place d'Italie", '5 Campo-Formio - Bastille', '1 Saint-Paul - Concorde', '8 Invalides - Invalides', '13 Varenne - Les Agnettes'] 
+Nombre d'itérations : 44
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 44 stations
+temps de voyage : 49 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge -> Asnières – Gennevilliers – Les Courtilles -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Saint-Lazare', '13 Miromesnil - Les Agnettes'] 
+Nombre d'itérations : 81
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 472 bytes
+Longueur du chemin : 35 stations
+temps de voyage : 38 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : Random Search (5 exécutions)
+Exécution 1:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Bastille -> Saint-Paul -> Hôtel de Ville -> Rambuteau -> Arts et Métiers -> Temple -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Chaussée d'Antin – La Fayette -> Havre – Caumartin -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Gare de Lyon', '1 Bastille - Hôtel de Ville', '11 Rambuteau - Arts et Métiers', '3 Temple - République', '8 Strasbourg – Saint-Denis - Strasbourg – Saint-Denis', '9 Bonne Nouvelle - Havre – Caumartin', '3 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 13058
+Temps d'exécution : 0.69 secondes
+Utilisation de la mémoire : 107896 bytes
+Longueur du chemin : 34 stations
+temps de voyage : 44 minutes
+Exécution 2:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Madeleine', '12 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 2417
+Temps d'exécution : 0.13 secondes
+Utilisation de la mémoire : 20536 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 29 minutes
+Exécution 3:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 931
+Temps d'exécution : 0.05 secondes
+Utilisation de la mémoire : 6936 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 27 minutes
+Exécution 4:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Montgallet -> Reuilly – Diderot -> Faidherbe – Chaligny -> Ledru-Rollin -> Bastille -> Saint-Paul -> Hôtel de Ville -> Châtelet -> Pyramides -> Opéra -> Chaussée d'Antin – La Fayette -> Havre – Caumartin -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Bastille', '1 Saint-Paul - Châtelet', '14 Pyramides - Pyramides', "7 Opéra - Chaussée d'Antin – La Fayette", '9 Havre – Caumartin - Havre – Caumartin', '3 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 2337
+Temps d'exécution : 0.13 secondes
+Utilisation de la mémoire : 20536 bytes
+Longueur du chemin : 30 stations
+temps de voyage : 37 minutes
+Exécution 5:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Bel-Air -> Picpus -> Nation -> Reuilly - Diderot -> Gare de Lyon -> Châtelet -> Pyramides -> Opéra -> Chaussée d'Antin – La Fayette -> Havre – Caumartin -> Saint-Augustin -> Miromesnil -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Bel-Air - Nation', '1 Reuilly - Diderot - Gare de Lyon', '14 Châtelet - Pyramides', "7 Opéra - Chaussée d'Antin – La Fayette", '9 Havre – Caumartin - Miromesnil', '13 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 6132
+Temps d'exécution : 0.35 secondes
+Utilisation de la mémoire : 53080 bytes
+Longueur du chemin : 30 stations
+temps de voyage : 38 minutes
+Moyennes sur 5 exécutions de Random Search :
+Temps d'exécution moyen : 0.27 secondes
+Utilisation de la mémoire moyenne : 41796.8 bytes
+================================
+30-May 17:04:
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : BFS
+Chemin trouvé par BFS :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Madeleine', '12 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 411
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 1152 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 29 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge -> Asnières – Gennevilliers – Les Courtilles -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Madeleine', '12 Saint-Lazare - Saint-Lazare', '13 Miromesnil - Les Agnettes'] 
+Nombre d'itérations : 95
+Temps d'exécution : 0.02 secondes
+Utilisation de la mémoire : 472 bytes
+Longueur du chemin : 35 stations
+temps de voyage : 39 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Quai de la Gare -> Chevaleret -> Nationale -> Place d'Italie -> Campo-Formio -> Saint-Marcel -> Gare d'Austerlitz -> Quai de la Rapée -> Bastille -> Saint-Paul -> Hôtel de Ville -> Châtelet -> Louvre - Rivoli -> Palais Royal - Musée du Louvre -> Tuileries -> Concorde -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge -> Asnières – Gennevilliers – Les Courtilles -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', "6 Dugommier - Place d'Italie", '5 Campo-Formio - Bastille', '1 Saint-Paul - Concorde', '8 Invalides - Invalides', '13 Varenne - Les Agnettes'] 
+Nombre d'itérations : 44
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 44 stations
+temps de voyage : 49 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Montparnasse – Bienvenüe -> Gaîté -> Pernety -> Plaisance -> Porte de Vanves -> Malakoff – Plateau de Vanves -> Malakoff – Rue Étienne Dolet -> Châtillon – Montrouge -> Asnières – Gennevilliers – Les Courtilles -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Saint-Lazare', '13 Miromesnil - Les Agnettes'] 
+Nombre d'itérations : 81
+Temps d'exécution : 0.02 secondes
+Utilisation de la mémoire : 472 bytes
+Longueur du chemin : 35 stations
+temps de voyage : 38 minutes
+
+Départ : Créteil – Préfecture
+Arrivée : Les Agnettes
+Algorithme : Random Search (5 exécutions)
+Exécution 1:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Louvre - Rivoli -> Palais Royal - Musée du Louvre -> Tuileries -> Concorde -> Madeleine -> Pyramides -> Opéra -> Havre – Caumartin -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Châtelet', '1 Louvre - Rivoli - Concorde', '8 Madeleine - Madeleine', '14 Pyramides - Pyramides', '7 Opéra - Opéra', '3 Havre – Caumartin - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 1933
+Temps d'exécution : 0.11 secondes
+Utilisation de la mémoire : 16184 bytes
+Longueur du chemin : 30 stations
+temps de voyage : 39 minutes
+Exécution 2:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Bastille -> Saint-Paul -> Hôtel de Ville -> Châtelet -> Pyramides -> Madeleine -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Gare de Lyon', '1 Bastille - Châtelet', '14 Pyramides - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 3089
+Temps d'exécution : 0.18 secondes
+Utilisation de la mémoire : 26040 bytes
+Longueur du chemin : 27 stations
+temps de voyage : 32 minutes
+Exécution 3:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Opéra -> Chaussée d'Antin – La Fayette -> Havre – Caumartin -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Madeleine', '8 Opéra - Opéra', "7 Chaussée d'Antin – La Fayette - Chaussée d'Antin – La Fayette", '9 Havre – Caumartin - Havre – Caumartin', '3 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 826
+Temps d'exécution : 0.06 secondes
+Utilisation de la mémoire : 7832 bytes
+Longueur du chemin : 27 stations
+temps de voyage : 35 minutes
+Exécution 4:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Hôtel de Ville -> Rambuteau -> Arts et Métiers -> Temple -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Chaussée d'Antin – La Fayette -> Opéra -> Madeleine -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Châtelet', '1 Hôtel de Ville - Hôtel de Ville', '11 Rambuteau - Arts et Métiers', '3 Temple - République', '9 Strasbourg – Saint-Denis - Strasbourg – Saint-Denis', '8 Bonne Nouvelle - Richelieu – Drouot', "9 Chaussée d'Antin – La Fayette - Chaussée d'Antin – La Fayette", '7 Opéra - Opéra', '8 Madeleine - Madeleine', '12 Saint-Lazare - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 2085
+Temps d'exécution : 0.12 secondes
+Utilisation de la mémoire : 18232 bytes
+Longueur du chemin : 34 stations
+temps de voyage : 47 minutes
+Exécution 5:
+Chemin trouvé par Random Search :
+Créteil – Préfecture -> Créteil – Université -> Créteil – L'Échat -> Maisons-Alfort – Les Juilliottes -> Maisons-Alfort – Stade -> École Vétérinaire de Maisons-Alfort -> Charenton – Écoles -> Liberté -> Porte de Charenton -> Porte Dorée -> Michel Bizot -> Daumesnil -> Dugommier -> Bercy -> Gare de Lyon -> Châtelet -> Louvre - Rivoli -> Palais Royal - Musée du Louvre -> Tuileries -> Concorde -> Madeleine -> Saint-Lazare -> Pont Cardinet -> Porte de Clichy -> Mairie de Clichy -> Gabriel Péri -> Les Agnettes
+Lignes utilisé : ['8 Créteil – Université - Daumesnil', '6 Dugommier - Bercy', '14 Gare de Lyon - Châtelet', '1 Louvre - Rivoli - Concorde', '12 Madeleine - Saint-Lazare', '14 Pont Cardinet - Porte de Clichy', '13 Mairie de Clichy - Les Agnettes'] 
+Nombre d'itérations : 1686
+Temps d'exécution : 0.09 secondes
+Utilisation de la mémoire : 14360 bytes
+Longueur du chemin : 27 stations
+temps de voyage : 33 minutes
+Moyennes sur 5 exécutions de Random Search :
+Temps d'exécution moyen : 0.11 secondes
+Utilisation de la mémoire moyenne : 16529.6 bytes
+================================
+30-May 17:05:
+
+Départ : Billancourt
+Arrivée : Berault
+Algorithme : BFS
+Chemin trouvé par BFS :
+Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> École Militaire -> La Tour-Maubourg -> Invalides -> Concorde -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['9 Marcel Sembat - Michel-Ange – Auteuil', "10 Église d'Auteuil - La Motte-Picquet – Grenelle", '8 École Militaire - Madeleine', '14 Pyramides - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 462
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 624 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 28 minutes
+
+Départ : Billancourt
+Arrivée : Berault
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Tuileries -> Palais Royal - Musée du Louvre -> Louvre - Rivoli -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['9 Marcel Sembat - Franklin D. Roosevelt', '1 Champs-Élysées - Clemenceau - Châtelet', '14 Gare de Lyon - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 48
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 312 bytes
+Longueur du chemin : 26 stations
+temps de voyage : 29 minutes
+
+Départ : Billancourt
+Arrivée : Berault
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Passy -> Bir-Hakeim -> Dupleix -> La Motte-Picquet – Grenelle -> Cambronne -> Sèvres – Lecourbe -> Pasteur -> Montparnasse – Bienvenüe -> Saint-Placide -> Saint-Sulpice -> Saint-Germain-des-Prés -> Odéon -> Saint-Michel -> Cité -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['9 Marcel Sembat - Trocadéro', '6 Passy - Montparnasse – Bienvenüe', '4 Saint-Placide - Châtelet', '14 Gare de Lyon - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 32
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 32 stations
+temps de voyage : 36 minutes
+
+Départ : Billancourt
+Arrivée : Berault
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Tuileries -> Palais Royal - Musée du Louvre -> Louvre - Rivoli -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['9 Marcel Sembat - Franklin D. Roosevelt', '1 Champs-Élysées - Clemenceau - Châtelet', '14 Gare de Lyon - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 40
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 312 bytes
+Longueur du chemin : 26 stations
+temps de voyage : 29 minutes
+
+Départ : Billancourt
+Arrivée : Berault
+Algorithme : Random Search (5 exécutions)
+Exécution 1:
+Chemin trouvé par Random Search :
+Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> École Militaire -> La Tour-Maubourg -> Invalides -> Concorde -> Madeleine -> Opéra -> Pyramides -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['9 Marcel Sembat - Michel-Ange – Auteuil', "10 Église d'Auteuil - La Motte-Picquet – Grenelle", '8 École Militaire - Opéra', '7 Pyramides - Pyramides', '14 Châtelet - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 2976
+Temps d'exécution : 0.17 secondes
+Utilisation de la mémoire : 26040 bytes
+Longueur du chemin : 25 stations
+temps de voyage : 30 minutes
+Exécution 2:
+Chemin trouvé par Random Search :
+Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['9 Marcel Sembat - Franklin D. Roosevelt', '1 Champs-Élysées - Clemenceau - Concorde', '8 Madeleine - Madeleine', '14 Pyramides - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 2253
+Temps d'exécution : 0.13 secondes
+Utilisation de la mémoire : 20536 bytes
+Longueur du chemin : 25 stations
+temps de voyage : 29 minutes
+Exécution 3:
+Chemin trouvé par Random Search :
+Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Église d'Auteuil -> Javel – André Citroën -> Charles Michels -> Avenue Émile Zola -> La Motte-Picquet – Grenelle -> École Militaire -> La Tour-Maubourg -> Invalides -> Concorde -> Madeleine -> Opéra -> Pyramides -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['9 Marcel Sembat - Michel-Ange – Auteuil', "10 Église d'Auteuil - La Motte-Picquet – Grenelle", '8 École Militaire - Concorde', '12 Madeleine - Madeleine', '8 Opéra - Opéra', '7 Pyramides - Pyramides', '14 Châtelet - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 3198
+Temps d'exécution : 0.18 secondes
+Utilisation de la mémoire : 29336 bytes
+Longueur du chemin : 25 stations
+temps de voyage : 32 minutes
+Exécution 4:
+Chemin trouvé par Random Search :
+Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['9 Marcel Sembat - Franklin D. Roosevelt', '1 Champs-Élysées - Clemenceau - Concorde', '12 Madeleine - Madeleine', '14 Pyramides - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 3520
+Temps d'exécution : 0.20 secondes
+Utilisation de la mémoire : 29336 bytes
+Longueur du chemin : 25 stations
+temps de voyage : 29 minutes
+Exécution 5:
+Chemin trouvé par Random Search :
+Billancourt -> Marcel Sembat -> Porte de Saint-Cloud -> Exelmans -> Michel-Ange – Molitor -> Michel-Ange – Auteuil -> Jasmin -> Ranelagh -> La Muette -> Rue de la Pompe -> Trocadéro -> Iéna -> Alma – Marceau -> Franklin D. Roosevelt -> Champs-Élysées - Clemenceau -> Concorde -> Madeleine -> Pyramides -> Châtelet -> Gare de Lyon -> Reuilly - Diderot -> Nation -> Porte de Vincennes -> Saint-Mandé -> Berault
+Lignes utilisé : ['9 Marcel Sembat - Franklin D. Roosevelt', '1 Champs-Élysées - Clemenceau - Concorde', '12 Madeleine - Madeleine', '14 Pyramides - Gare de Lyon', '1 Reuilly - Diderot - Berault'] 
+Nombre d'itérations : 3486
+Temps d'exécution : 0.20 secondes
+Utilisation de la mémoire : 29336 bytes
+Longueur du chemin : 25 stations
+temps de voyage : 29 minutes
+Moyennes sur 5 exécutions de Random Search :
+Temps d'exécution moyen : 0.17 secondes
+Utilisation de la mémoire moyenne : 26916.8 bytes
+================================
+30-May 20:22:
+
+Départ : Alexandre Dumas
+Arrivée : Balard
+Algorithme : BFS
+Chemin trouvé par BFS :
+Alexandre Dumas -> Avron -> Nation -> Reuilly - Diderot -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Concorde -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Commerce -> Félix Faure -> Boucicaut -> Lourmel -> Balard
+Lignes utilisé : ['2 Avron - Nation', '1 Reuilly - Diderot - Gare de Lyon', '14 Châtelet - Madeleine', '8 Concorde - Balard'] 
+Nombre d'itérations : 507
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 1152 bytes
+Longueur du chemin : 18 stations
+temps de voyage : 21 minutes
+
+Départ : Alexandre Dumas
+Arrivée : Balard
+Algorithme : Greedy Search
+Chemin trouvé par Greedy Search :
+Alexandre Dumas -> Philippe Auguste -> Père Lachaise -> Rue Saint-Maur -> Parmentier -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Opéra -> Madeleine -> Concorde -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Commerce -> Félix Faure -> Boucicaut -> Lourmel -> Balard
+Lignes utilisé : ['2 Philippe Auguste - Père Lachaise', '3 Rue Saint-Maur - République', '8 Strasbourg – Saint-Denis - Balard'] 
+Nombre d'itérations : 32
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 376 bytes
+Longueur du chemin : 22 stations
+temps de voyage : 24 minutes
+
+Départ : Alexandre Dumas
+Arrivée : Balard
+Algorithme : Beam Search
+Chemin trouvé par Beam Search :
+Alexandre Dumas -> Philippe Auguste -> Père Lachaise -> Rue Saint-Maur -> Parmentier -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Opéra -> Madeleine -> Concorde -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Commerce -> Félix Faure -> Boucicaut -> Lourmel -> Balard
+Lignes utilisé : ['2 Philippe Auguste - Père Lachaise', '3 Rue Saint-Maur - République', '8 Strasbourg – Saint-Denis - Balard'] 
+Nombre d'itérations : 22
+Temps d'exécution : 0.01 secondes
+Utilisation de la mémoire : 72 bytes
+Longueur du chemin : 22 stations
+temps de voyage : 24 minutes
+
+Départ : Alexandre Dumas
+Arrivée : Balard
+Algorithme : A* Search
+Chemin trouvé par A* Search :
+Alexandre Dumas -> Avron -> Nation -> Picpus -> Bel-Air -> Daumesnil -> Montgallet -> Reuilly – Diderot -> Faidherbe – Chaligny -> Ledru-Rollin -> Bastille -> Chemin Vert -> Saint-Sébastien – Froissart -> Filles du Calvaire -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Opéra -> Madeleine -> Concorde -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Commerce -> Félix Faure -> Boucicaut -> Lourmel -> Balard
+Lignes utilisé : ['2 Avron - Nation', '6 Picpus - Daumesnil', '8 Montgallet - Balard'] 
+Nombre d'itérations : 42
+Temps d'exécution : 0.00 secondes
+Utilisation de la mémoire : 472 bytes
+Longueur du chemin : 31 stations
+temps de voyage : 33 minutes
+
+Départ : Alexandre Dumas
+Arrivée : Balard
+Algorithme : Random Search (5 exécutions)
+Exécution 1:
+Chemin trouvé par Random Search :
+Alexandre Dumas -> Philippe Auguste -> Père Lachaise -> Rue Saint-Maur -> Parmentier -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Chaussée d'Antin – La Fayette -> Opéra -> Madeleine -> Concorde -> Invalides -> Varenne -> Saint-François-Xavier -> Duroc -> Ségur -> La Motte-Picquet – Grenelle -> Commerce -> Félix Faure -> Boucicaut -> Lourmel -> Balard
+Lignes utilisé : ['2 Philippe Auguste - Père Lachaise', '3 Rue Saint-Maur - République', '8 Strasbourg – Saint-Denis - Grands Boulevards', "9 Richelieu – Drouot - Chaussée d'Antin – La Fayette", '7 Opéra - Opéra', '8 Madeleine - Madeleine', '12 Concorde - Concorde', '8 Invalides - Invalides', '13 Varenne - Duroc', '10 Ségur - La Motte-Picquet – Grenelle', '8 Commerce - Balard'] 
+Nombre d'itérations : 18820
+Temps d'exécution : 1.05 secondes
+Utilisation de la mémoire : 136632 bytes
+Longueur du chemin : 25 stations
+temps de voyage : 35 minutes
+Exécution 2:
+Chemin trouvé par Random Search :
+Alexandre Dumas -> Philippe Auguste -> Père Lachaise -> Rue Saint-Maur -> Parmentier -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Chaussée d'Antin – La Fayette -> Opéra -> Madeleine -> Concorde -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Commerce -> Félix Faure -> Boucicaut -> Lourmel -> Balard
+Lignes utilisé : ['2 Philippe Auguste - Père Lachaise', '3 Rue Saint-Maur - République', '8 Strasbourg – Saint-Denis - Bonne Nouvelle', '9 Grands Boulevards - Grands Boulevards', '8 Richelieu – Drouot - Richelieu – Drouot', "9 Chaussée d'Antin – La Fayette - Chaussée d'Antin – La Fayette", '7 Opéra - Opéra', '8 Madeleine - Balard'] 
+Nombre d'itérations : 14485
+Temps d'exécution : 0.82 secondes
+Utilisation de la mémoire : 121432 bytes
+Longueur du chemin : 23 stations
+temps de voyage : 30 minutes
+Exécution 3:
+Chemin trouvé par Random Search :
+Alexandre Dumas -> Avron -> Nation -> Reuilly - Diderot -> Gare de Lyon -> Châtelet -> Pyramides -> Madeleine -> Concorde -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Commerce -> Félix Faure -> Boucicaut -> Lourmel -> Balard
+Lignes utilisé : ['2 Avron - Nation', '1 Reuilly - Diderot - Gare de Lyon', '14 Châtelet - Madeleine', '8 Concorde - Balard'] 
+Nombre d'itérations : 38023
+Temps d'exécution : 2.32 secondes
+Utilisation de la mémoire : 277336 bytes
+Longueur du chemin : 18 stations
+temps de voyage : 21 minutes
+Exécution 4:
+Chemin trouvé par Random Search :
+Alexandre Dumas -> Philippe Auguste -> Père Lachaise -> Ménilmontant -> Couronnes -> Belleville -> Goncourt -> République -> Strasbourg – Saint-Denis -> Bonne Nouvelle -> Grands Boulevards -> Richelieu – Drouot -> Chaussée d'Antin – La Fayette -> Opéra -> Madeleine -> Saint-Lazare -> Havre – Caumartin -> Saint-Augustin -> Miromesnil -> Champs-Élysées – Clémenceau -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Commerce -> Félix Faure -> Boucicaut -> Lourmel -> Balard
+Lignes utilisé : ['2 Philippe Auguste - Belleville', '11 Goncourt - République', '8 Strasbourg – Saint-Denis - Strasbourg – Saint-Denis', '9 Bonne Nouvelle - Bonne Nouvelle', '8 Grands Boulevards - Grands Boulevards', "9 Richelieu – Drouot - Chaussée d'Antin – La Fayette", '7 Opéra - Opéra', '8 Madeleine - Madeleine', '12 Saint-Lazare - Saint-Lazare', '3 Havre – Caumartin - Havre – Caumartin', '9 Saint-Augustin - Miromesnil', '13 Champs-Élysées – Clémenceau - Invalides', '8 La Tour-Maubourg - Balard'] 
+Nombre d'itérations : 31151
+Temps d'exécution : 1.87 secondes
+Utilisation de la mémoire : 246488 bytes
+Longueur du chemin : 29 stations
+temps de voyage : 41 minutes
+Exécution 5:
+Chemin trouvé par Random Search :
+Alexandre Dumas -> Avron -> Nation -> Reuilly - Diderot -> Gare de Lyon -> Bastille -> Saint-Paul -> Hôtel de Ville -> Châtelet -> Pont Neuf -> Palais Royal – Musée du Louvre -> Pyramides -> Opéra -> Madeleine -> Concorde -> Invalides -> La Tour-Maubourg -> École Militaire -> La Motte-Picquet – Grenelle -> Commerce -> Félix Faure -> Boucicaut -> Lourmel -> Balard
+Lignes utilisé : ['2 Avron - Nation', '1 Reuilly - Diderot - Châtelet', '7 Pont Neuf - Opéra', '8 Madeleine - Balard'] 
+Nombre d'itérations : 14465
+Temps d'exécution : 0.83 secondes
+Utilisation de la mémoire : 107896 bytes
+Longueur du chemin : 24 stations
+temps de voyage : 27 minutes
+Moyennes sur 5 exécutions de Random Search :
+Temps d'exécution moyen : 1.38 secondes
+Utilisation de la mémoire moyenne : 177956.8 bytes
+================================
